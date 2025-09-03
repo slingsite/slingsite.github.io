@@ -20,7 +20,7 @@ The actual source code of the website lives in a separate repository:
 👉 [https://github.com/damiarita/slingsite](https://github.com/damiarita/slingsite)
 
 That repository contains the full Next.js project along with the GitHub Actions workflow used to automatically build and deploy to this repo.
-https://github.com/tuusuario/nextjs-slingmedia
+https://github.com/damiarita/slingsite
 ---
 
 ## 📝 Issues & Contributions
