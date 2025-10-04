@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5978],{5978:e=>{e.exports=JSON.parse('{"claim":"高性能图像优化的现代工具。","headings":{"connect":"连接","legal":"法律声明","development":"开发"},"suscribe":"订阅","contactUs":"联系我们","cookies":"Cookie","sourceCode":"源代码","issues":"Issues","copyright":"版权所有。"}')}}]);

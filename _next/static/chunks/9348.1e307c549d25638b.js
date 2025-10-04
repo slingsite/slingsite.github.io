@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9348],{9348:e=>{e.exports=JSON.parse('{"title":"Optimieren Sie Ihre Web-Videos","subtitle":"Laden Sie Ihre Videos hoch und erhalten Sie perfekt dimensionierte Next-Gen-Formate f\xfcr jedes Ger\xe4t. Verbessern Sie die Geschwindigkeit und das SEO Ihrer Website."}')}}]);

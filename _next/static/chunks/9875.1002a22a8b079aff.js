@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9875],{9875:e=>{e.exports=JSON.parse('{"title":"Optimiza Tus V\xeddeos Web","subtitle":"Sube tus v\xeddeos y obt\xe9n formatos de \xfaltima generaci\xf3n y tama\xf1o perfecto para cada dispositivo. Mejora la velocidad y el SEO de tu sitio."}')}}]);
