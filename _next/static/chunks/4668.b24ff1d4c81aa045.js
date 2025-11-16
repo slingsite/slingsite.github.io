@@ -1,2 +1,0 @@
-(()=>{"use strict";self.onmessage=async e=>{let{file:t,format:a,mediaSize:i}=e.data,g="jpg"===a?"image/jpeg":"image/".concat(a),n=await createImageBitmap(t),o=new OffscreenCanvas(i.width,i.height),s=o.getContext("2d",{alpha:!0,desynchronized:!0});if(!s)throw Error("Failed to get canvas context");s.imageSmoothingEnabled=!0,s.imageSmoothingQuality="high",s.drawImage(n,0,0,i.width,i.height);let h=await o.convertToBlob({type:g,quality:.8});self.postMessage({type:"result",data:new File([h],t.name,{type:g})})}})(),_N_E={};
-//# sourceMappingURL=4668.b24ff1d4c81aa045.js.map

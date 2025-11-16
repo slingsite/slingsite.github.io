@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5866],{628:e=>{e.exports=JSON.parse('{"publidhed_on":"Ver\xf6ffentlicht am","last_edited_on":"Zuletzt aktualisiert am"}')}}]);
