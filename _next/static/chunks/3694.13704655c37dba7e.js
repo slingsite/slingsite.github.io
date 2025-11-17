@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3694],{3694:a=>{a.exports=JSON.parse('{"clickToUpload":"Haz clic para subir","orDragAndDrop":"o arrastra y suelta","supports":"Soporta"}')}}]);

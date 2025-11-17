@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[69],{69:e=>{e.exports=JSON.parse('{"clickToUpload":"Zum Hochladen klicken","orDragAndDrop":"oder per Drag & Drop","supports":"Unterst\xfctzt"}')}}]);
