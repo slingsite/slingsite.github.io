@@ -1,0 +1,347 @@
+1:"$Sreact.fragment"
+2:I[4936,["47","static/chunks/47-2d0e5de7350446ad.js","3902","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/page-322560e43aed7286.js"],"PostPageContent"]
+7:I[484,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T22bb,
+Dies ist eine Übersetzung unserer [Allgemeinen Geschäftsbedingungen in englischer Sprache](/en/terms-and-conditions/). Wir stellen sie aus Kulanz zur Verfügung, aber die Nutzung der Website unterliegt der [englischen Version dieses Dokuments](/en/terms-and-conditions/).
+
+# Allgemeine Geschäftsbedingungen
+
+## 1. Annahme der Bedingungen
+
+Durch den Zugriff auf oder die Nutzung des Slingsite-Dienstes („Dienst“) unter https://slingsite.github.io erklären Sie sich mit diesen Allgemeinen Geschäftsbedingungen („Bedingungen“) einverstanden. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, dürfen Sie nicht auf den Dienst zugreifen.
+
+## 2. Beschreibung des Dienstes
+
+Slingsite bietet ein clientseitiges Bild- und Videokomprimierungstool, das Dateien vollständig im Webbrowser des Benutzers verarbeitet. Der Dienst:
+
+- Erzeugt mehrere komprimierte Versionen der hochgeladenen Dateien, die für verschiedene Geräte und Formate optimiert sind
+- Arbeitet vollständig clientseitig ohne serverseitige Verarbeitung oder Speicherung
+- wird kostenlos bereitgestellt
+- ist in mehreren Sprachen verfügbar
+
+## 3. Verantwortlichkeiten der BenutzerInnen und verbotene Nutzungen
+
+### 3.1. Zulässige Nutzung
+
+Sie dürfen den Dienst für persönliche und kommerzielle Zwecke nutzen, um Bilder und Videos zu komprimieren, die Sie rechtmäßig besitzen oder für deren Verarbeitung Sie eine ausdrückliche Genehmigung haben. Die automatisierte Nutzung des Dienstes ist zulässig.
+
+### 3.2. Verbotene Nutzung
+
+Sie erklären sich damit einverstanden, den Dienst NICHT für folgende Zwecke zu nutzen:
+
+- Verarbeitung illegaler, schädlicher, bedrohlicher, beleidigender oder diffamierender Inhalte.
+- Militärische Anwendungen oder Zwecke.
+- Verletzung der geistigen Eigentumsrechte (z. B. Urheberrecht, Markenrecht) anderer.
+- Versuche, den Dienst zurückzuentwickeln, zu hacken oder seine Integrität zu beeinträchtigen.
+- Umgehung von Sicherheitsmaßnahmen
+- Hochladen von bösartigen Dateien oder Inhalten, die dazu bestimmt sind, die Geräte anderer NutzerInnen zu schädigen
+
+## 4. Rechte an geistigem Eigentum
+
+### 4.1. Benutzer/inneninhalte
+
+Sie behalten das vollständige Eigentum und alle Rechte an den Dateien, die Sie über den Dienst verarbeiten. Wir beanspruchen kein Eigentum oder Rechte an Ihren Inhalten oder den generierten Ausgabedateien. Sie sind allein dafür verantwortlich, sicherzustellen, dass Sie über die erforderlichen Rechte zur Verarbeitung der Inhalte verfügen.
+
+### 4.2. Dienst und Code
+
+Der Inhalt, das Branding und die Funktionen der Website des Dienstes sind unser geistiges Eigentum. Der Quellcode des Dienstes ist auf [GitHub](https://github.com/damiarita/slingsite) unter der MIT License verfügbar. Der Dienst nutzt Codec-Bibliotheken von Drittanbietern, die ihren jeweiligen Lizenzen unterliegen.
+
+## 5. Datenschutz und Datenverarbeitung
+
+### 5.1. Dateiverarbeitung
+
+Die gesamte Dateiverarbeitung erfolgt vollständig in Ihrem Browser (clientseitig). Wir erhalten, speichern oder haben zu keinem Zeitpunkt Zugriff auf Ihre Dateien oder deren Inhalt.
+
+Wenn Sie die Google Drive-Schaltfläche zum Hochladen von Bildern verwenden, kann ein Popup erscheinen, das um Erlaubnis bittet, auf Ihren Namen, Ihre E-Mail-Adresse und Ihr Profilbild zuzugreifen. Diese Informationen werden nur in Ihrem Browser verwendet, um eine Verbindung zu Ihrem Google Drive herzustellen, und werden niemals an einen Server gesendet – Ihre persönlichen Daten bleiben sicher in Ihrem Browser.
+
+### 5.2. Analyse und Überwachung
+
+Wir erfassen begrenzte, anonyme Nutzungsdaten über Google Analytics 4, um den Dienst zu verbessern. Dazu gehören: Seitenaufrufe, Benutzerinteraktionen, Dateiformattypen (z. B. „PNG“), Abmessungen in Pixeln und Dateigrößen in Byte (Breite und Höhe). Diese Daten werden aggregiert und enthalten keine personenbezogenen Informationen. Wir erfassen ausdrücklich KEINE Dateinamen oder Dateiinhalte.
+
+### 5.3. Fehlerprotokollierung
+
+Wir verwenden Sentry für die automatisierte Fehlerprotokollierung, um Fehler zu identifizieren und zu beheben. Diese Daten können technische Informationen über Ihren Browser und Ihr Betriebssystem enthalten, umfassen jedoch nicht Ihre persönlichen Dateien.
+
+### 5.4. E-Mail-Kommunikation
+
+Wenn Sie unseren Newsletter freiwillig abonnieren, wird Ihre E-Mail-Adresse von Brevo ausschließlich zum Versand von Newslettern, Produktaktualisierungen und gelegentlichen servicebezogenen Erinnerungen gespeichert und verwaltet.
+Wir werden Ihre E-Mail-Adresse niemals verkaufen. Sie können sich jederzeit abmelden, und die Anmeldung ist keine Voraussetzung für die Nutzung des Dienstes.
+
+### 5.5. Einhaltung der DSGVO (DS-GVO)
+
+Unsere Datenverarbeitungsmethoden entsprechen der Datenschutz-Grundverordnung (DS-GVO). Sie haben das Recht, auf Ihre personenbezogenen Daten (z. B. Ihre E-Mail-Adresse) zuzugreifen, diese zu berichtigen oder deren Löschung zu verlangen.
+Wir verarbeiten Daten auf der Grundlage von:
+
+- Einwilligung (wenn Sie E-Mails abonnieren)
+- Berechtigtem Interesse (für anonyme Analysen und Fehlerüberwachung zur Verbesserung des Dienstes)
+
+### 5.6. Cookies
+
+Wir verwenden Cookies für Analysen (nur wenn Sie zustimmen). Cookies enthalten keine personenbezogenen Daten über Ihre Dateien. Sie können Cookies in Ihren Browsereinstellungen deaktivieren, jedoch können dadurch einige Funktionen eingeschränkt sein.
+
+## 6. Haftungsausschluss und Haftungsbeschränkung
+
+### 6.1. „AS-IS”-Dienst
+
+Der Dienst wird „AS-IS” und „AS-AVAILABLE” bereitgestellt. Soweit gesetzlich zulässig, lehnen wir alle ausdrücklichen oder stillschweigenden Gewährleistungen ab, einschließlich, aber nicht beschränkt auf:
+
+- Stillschweigende Gewährleistungen der Marktgängigkeit, Eignung für einen bestimmten Zweck und Nichtverletzung von Rechten Dritter.
+- Genauigkeit, Zuverlässigkeit oder Vollständigkeit der Komprimierungsergebnisse
+- Kompatibilität mit allen Dateiformaten oder Geräten
+
+### 6.2. Keine Garantien
+
+Wir garantieren nicht, dass der Dienst ununterbrochen und fehlerfrei funktioniert oder dass die Komprimierungsergebnisse Ihren spezifischen Anforderungen oder Qualitätsstandards entsprechen.
+
+### 6.3. Haftungsbeschränkung
+
+Soweit gesetzlich zulässig, haften wir nicht für direkte, indirekte, zufällige, besondere, Folge- oder Strafschäden, einschließlich Datenverlust, entgangener Gewinne oder Betriebsunterbrechungen, die sich aus der Nutzung oder der Unmöglichkeit der Nutzung der Funktion ergeben.
+
+## 7. Entschädigung
+
+Sie erklären sich damit einverstanden, die Betreiber von Slingsite von allen Ansprüchen, Haftungen, Schäden, Verlusten und Ausgaben, einschließlich Anwaltskosten, freizustellen und schadlos zu halten, die sich aus Ihrem Zugriff auf oder Ihrer Nutzung des Dienstes, der Verletzung dieser Vereinbarung oder der Verletzung von Rechten Dritter ergeben oder in irgendeiner Weise damit zusammenhängen.
+
+## 8. Zukünftige Monetarisierung
+
+Wir behalten uns das Recht vor, in Zukunft Monetarisierungsmethoden einzuführen, einschließlich Werbung, Affiliate-Marketing oder kostenpflichtige Premium-Funktionen.
+
+## 9. Änderungen der Bedingungen
+
+Wir können diese Bedingungen jederzeit ändern, indem wir die überarbeiteten Bedingungen auf dieser Seite veröffentlichen. Änderungen treten sofort nach ihrer Veröffentlichung in Kraft. Ihre fortgesetzte Nutzung des Dienstes nach solchen Änderungen gilt als Ihre Zustimmung zu den neuen Bedingungen.
+
+## 10. Kündigung
+
+Wir behalten uns das Recht vor, den Zugang zu unserem Dienst ohne vorherige Ankündigung und ohne Haftung aus beliebigen Gründen, einschließlich, aber nicht beschränkt auf Verstöße gegen die Bedingungen, sofort zu kündigen oder auszusetzen.
+
+## 11. Anwendbares Recht und Gerichtsbarkeit
+
+Diese Bedingungen unterliegen spanischem Recht und sind entsprechend auszulegen. Alle Streitigkeiten, die sich aus diesen Bedingungen ergeben, werden vor den zuständigen Gerichten in Palma (Palma de Mallorca), Spanien, beigelegt.
+
+## 12. Trennbarkeit
+
+Sollte eine Bestimmung dieser Bedingungen für nicht durchsetzbar oder ungültig erklärt werden, wird diese Bestimmung so geändert und ausgelegt, dass sie den Zielen dieser Bestimmung im Rahmen des geltenden Rechts so weit wie möglich entspricht, und die übrigen Bestimmungen bleiben in vollem Umfang in Kraft und wirksam.
+
+## 13. Kontaktinformationen
+
+Bei Fragen zu diesen Bedingungen und Vereinbarungen wenden Sie sich bitte an [https://github.com/damiarita/slingsite/issues](https://github.com/damiarita/slingsite/issues).
+
+## 14. Danksagungen
+
+Dieser Dienst wird durch Open-Source-Bibliotheken und Codecs von Drittanbietern ermöglicht. Wir sind der Open-Source-Community für ihre Beiträge sehr dankbar. Eine vollständige Liste der Abhängigkeiten finden Sie im Quellcode-Repository des Projekts.
+4:T24b7,<p>Dies ist eine Übersetzung unserer <a href="/en/terms-and-conditions/">Allgemeinen Geschäftsbedingungen in englischer Sprache</a>. Wir stellen sie aus Kulanz zur Verfügung, aber die Nutzung der Website unterliegt der <a href="/en/terms-and-conditions/">englischen Version dieses Dokuments</a>.</p>
+<h1>Allgemeine Geschäftsbedingungen</h1>
+<h2>1. Annahme der Bedingungen</h2>
+<p>Durch den Zugriff auf oder die Nutzung des Slingsite-Dienstes („Dienst“) unter <a href="https://slingsite.github.io">https://slingsite.github.io</a> erklären Sie sich mit diesen Allgemeinen Geschäftsbedingungen („Bedingungen“) einverstanden. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, dürfen Sie nicht auf den Dienst zugreifen.</p>
+<h2>2. Beschreibung des Dienstes</h2>
+<p>Slingsite bietet ein clientseitiges Bild- und Videokomprimierungstool, das Dateien vollständig im Webbrowser des Benutzers verarbeitet. Der Dienst:</p>
+<ul>
+<li>Erzeugt mehrere komprimierte Versionen der hochgeladenen Dateien, die für verschiedene Geräte und Formate optimiert sind</li>
+<li>Arbeitet vollständig clientseitig ohne serverseitige Verarbeitung oder Speicherung</li>
+<li>wird kostenlos bereitgestellt</li>
+<li>ist in mehreren Sprachen verfügbar</li>
+</ul>
+<h2>3. Verantwortlichkeiten der BenutzerInnen und verbotene Nutzungen</h2>
+<h3>3.1. Zulässige Nutzung</h3>
+<p>Sie dürfen den Dienst für persönliche und kommerzielle Zwecke nutzen, um Bilder und Videos zu komprimieren, die Sie rechtmäßig besitzen oder für deren Verarbeitung Sie eine ausdrückliche Genehmigung haben. Die automatisierte Nutzung des Dienstes ist zulässig.</p>
+<h3>3.2. Verbotene Nutzung</h3>
+<p>Sie erklären sich damit einverstanden, den Dienst NICHT für folgende Zwecke zu nutzen:</p>
+<ul>
+<li>Verarbeitung illegaler, schädlicher, bedrohlicher, beleidigender oder diffamierender Inhalte.</li>
+<li>Militärische Anwendungen oder Zwecke.</li>
+<li>Verletzung der geistigen Eigentumsrechte (z. B. Urheberrecht, Markenrecht) anderer.</li>
+<li>Versuche, den Dienst zurückzuentwickeln, zu hacken oder seine Integrität zu beeinträchtigen.</li>
+<li>Umgehung von Sicherheitsmaßnahmen</li>
+<li>Hochladen von bösartigen Dateien oder Inhalten, die dazu bestimmt sind, die Geräte anderer NutzerInnen zu schädigen</li>
+</ul>
+<h2>4. Rechte an geistigem Eigentum</h2>
+<h3>4.1. Benutzer/inneninhalte</h3>
+<p>Sie behalten das vollständige Eigentum und alle Rechte an den Dateien, die Sie über den Dienst verarbeiten. Wir beanspruchen kein Eigentum oder Rechte an Ihren Inhalten oder den generierten Ausgabedateien. Sie sind allein dafür verantwortlich, sicherzustellen, dass Sie über die erforderlichen Rechte zur Verarbeitung der Inhalte verfügen.</p>
+<h3>4.2. Dienst und Code</h3>
+<p>Der Inhalt, das Branding und die Funktionen der Website des Dienstes sind unser geistiges Eigentum. Der Quellcode des Dienstes ist auf <a href="https://github.com/damiarita/slingsite">GitHub</a> unter der MIT License verfügbar. Der Dienst nutzt Codec-Bibliotheken von Drittanbietern, die ihren jeweiligen Lizenzen unterliegen.</p>
+<h2>5. Datenschutz und Datenverarbeitung</h2>
+<h3>5.1. Dateiverarbeitung</h3>
+<p>Die gesamte Dateiverarbeitung erfolgt vollständig in Ihrem Browser (clientseitig). Wir erhalten, speichern oder haben zu keinem Zeitpunkt Zugriff auf Ihre Dateien oder deren Inhalt.</p>
+<p>Wenn Sie die Google Drive-Schaltfläche zum Hochladen von Bildern verwenden, kann ein Popup erscheinen, das um Erlaubnis bittet, auf Ihren Namen, Ihre E-Mail-Adresse und Ihr Profilbild zuzugreifen. Diese Informationen werden nur in Ihrem Browser verwendet, um eine Verbindung zu Ihrem Google Drive herzustellen, und werden niemals an einen Server gesendet – Ihre persönlichen Daten bleiben sicher in Ihrem Browser.</p>
+<h3>5.2. Analyse und Überwachung</h3>
+<p>Wir erfassen begrenzte, anonyme Nutzungsdaten über Google Analytics 4, um den Dienst zu verbessern. Dazu gehören: Seitenaufrufe, Benutzerinteraktionen, Dateiformattypen (z. B. „PNG“), Abmessungen in Pixeln und Dateigrößen in Byte (Breite und Höhe). Diese Daten werden aggregiert und enthalten keine personenbezogenen Informationen. Wir erfassen ausdrücklich KEINE Dateinamen oder Dateiinhalte.</p>
+<h3>5.3. Fehlerprotokollierung</h3>
+<p>Wir verwenden Sentry für die automatisierte Fehlerprotokollierung, um Fehler zu identifizieren und zu beheben. Diese Daten können technische Informationen über Ihren Browser und Ihr Betriebssystem enthalten, umfassen jedoch nicht Ihre persönlichen Dateien.</p>
+<h3>5.4. E-Mail-Kommunikation</h3>
+<p>Wenn Sie unseren Newsletter freiwillig abonnieren, wird Ihre E-Mail-Adresse von Brevo ausschließlich zum Versand von Newslettern, Produktaktualisierungen und gelegentlichen servicebezogenen Erinnerungen gespeichert und verwaltet.
+Wir werden Ihre E-Mail-Adresse niemals verkaufen. Sie können sich jederzeit abmelden, und die Anmeldung ist keine Voraussetzung für die Nutzung des Dienstes.</p>
+<h3>5.5. Einhaltung der DSGVO (DS-GVO)</h3>
+<p>Unsere Datenverarbeitungsmethoden entsprechen der Datenschutz-Grundverordnung (DS-GVO). Sie haben das Recht, auf Ihre personenbezogenen Daten (z. B. Ihre E-Mail-Adresse) zuzugreifen, diese zu berichtigen oder deren Löschung zu verlangen.
+Wir verarbeiten Daten auf der Grundlage von:</p>
+<ul>
+<li>Einwilligung (wenn Sie E-Mails abonnieren)</li>
+<li>Berechtigtem Interesse (für anonyme Analysen und Fehlerüberwachung zur Verbesserung des Dienstes)</li>
+</ul>
+<h3>5.6. Cookies</h3>
+<p>Wir verwenden Cookies für Analysen (nur wenn Sie zustimmen). Cookies enthalten keine personenbezogenen Daten über Ihre Dateien. Sie können Cookies in Ihren Browsereinstellungen deaktivieren, jedoch können dadurch einige Funktionen eingeschränkt sein.</p>
+<h2>6. Haftungsausschluss und Haftungsbeschränkung</h2>
+<h3>6.1. „AS-IS”-Dienst</h3>
+<p>Der Dienst wird „AS-IS” und „AS-AVAILABLE” bereitgestellt. Soweit gesetzlich zulässig, lehnen wir alle ausdrücklichen oder stillschweigenden Gewährleistungen ab, einschließlich, aber nicht beschränkt auf:</p>
+<ul>
+<li>Stillschweigende Gewährleistungen der Marktgängigkeit, Eignung für einen bestimmten Zweck und Nichtverletzung von Rechten Dritter.</li>
+<li>Genauigkeit, Zuverlässigkeit oder Vollständigkeit der Komprimierungsergebnisse</li>
+<li>Kompatibilität mit allen Dateiformaten oder Geräten</li>
+</ul>
+<h3>6.2. Keine Garantien</h3>
+<p>Wir garantieren nicht, dass der Dienst ununterbrochen und fehlerfrei funktioniert oder dass die Komprimierungsergebnisse Ihren spezifischen Anforderungen oder Qualitätsstandards entsprechen.</p>
+<h3>6.3. Haftungsbeschränkung</h3>
+<p>Soweit gesetzlich zulässig, haften wir nicht für direkte, indirekte, zufällige, besondere, Folge- oder Strafschäden, einschließlich Datenverlust, entgangener Gewinne oder Betriebsunterbrechungen, die sich aus der Nutzung oder der Unmöglichkeit der Nutzung der Funktion ergeben.</p>
+<h2>7. Entschädigung</h2>
+<p>Sie erklären sich damit einverstanden, die Betreiber von Slingsite von allen Ansprüchen, Haftungen, Schäden, Verlusten und Ausgaben, einschließlich Anwaltskosten, freizustellen und schadlos zu halten, die sich aus Ihrem Zugriff auf oder Ihrer Nutzung des Dienstes, der Verletzung dieser Vereinbarung oder der Verletzung von Rechten Dritter ergeben oder in irgendeiner Weise damit zusammenhängen.</p>
+<h2>8. Zukünftige Monetarisierung</h2>
+<p>Wir behalten uns das Recht vor, in Zukunft Monetarisierungsmethoden einzuführen, einschließlich Werbung, Affiliate-Marketing oder kostenpflichtige Premium-Funktionen.</p>
+<h2>9. Änderungen der Bedingungen</h2>
+<p>Wir können diese Bedingungen jederzeit ändern, indem wir die überarbeiteten Bedingungen auf dieser Seite veröffentlichen. Änderungen treten sofort nach ihrer Veröffentlichung in Kraft. Ihre fortgesetzte Nutzung des Dienstes nach solchen Änderungen gilt als Ihre Zustimmung zu den neuen Bedingungen.</p>
+<h2>10. Kündigung</h2>
+<p>Wir behalten uns das Recht vor, den Zugang zu unserem Dienst ohne vorherige Ankündigung und ohne Haftung aus beliebigen Gründen, einschließlich, aber nicht beschränkt auf Verstöße gegen die Bedingungen, sofort zu kündigen oder auszusetzen.</p>
+<h2>11. Anwendbares Recht und Gerichtsbarkeit</h2>
+<p>Diese Bedingungen unterliegen spanischem Recht und sind entsprechend auszulegen. Alle Streitigkeiten, die sich aus diesen Bedingungen ergeben, werden vor den zuständigen Gerichten in Palma (Palma de Mallorca), Spanien, beigelegt.</p>
+<h2>12. Trennbarkeit</h2>
+<p>Sollte eine Bestimmung dieser Bedingungen für nicht durchsetzbar oder ungültig erklärt werden, wird diese Bestimmung so geändert und ausgelegt, dass sie den Zielen dieser Bestimmung im Rahmen des geltenden Rechts so weit wie möglich entspricht, und die übrigen Bestimmungen bleiben in vollem Umfang in Kraft und wirksam.</p>
+<h2>13. Kontaktinformationen</h2>
+<p>Bei Fragen zu diesen Bedingungen und Vereinbarungen wenden Sie sich bitte an <a href="https://github.com/damiarita/slingsite/issues">https://github.com/damiarita/slingsite/issues</a>.</p>
+<h2>14. Danksagungen</h2>
+<p>Dieser Dienst wird durch Open-Source-Bibliotheken und Codecs von Drittanbietern ermöglicht. Wir sind der Open-Source-Community für ihre Beiträge sehr dankbar. Eine vollständige Liste der Abhängigkeiten finden Sie im Quellcode-Repository des Projekts.</p>5:T21bf,Dies ist eine Übersetzung unserer Allgemeinen Geschäftsbedingungen in englischer Sprache. Wir stellen sie aus Kulanz zur Verfügung, aber die Nutzung der Website unterliegt der englischen Version dieses Dokuments.
+
+Allgemeine Geschäftsbedingungen
+
+1\. Annahme der Bedingungen
+
+Durch den Zugriff auf oder die Nutzung des Slingsite-Dienstes („Dienst“) unter https://slingsite.github.io erklären Sie sich mit diesen Allgemeinen Geschäftsbedingungen („Bedingungen“) einverstanden. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, dürfen Sie nicht auf den Dienst zugreifen.
+
+2\. Beschreibung des Dienstes
+
+Slingsite bietet ein clientseitiges Bild- und Videokomprimierungstool, das Dateien vollständig im Webbrowser des Benutzers verarbeitet. Der Dienst:
+
+Erzeugt mehrere komprimierte Versionen der hochgeladenen Dateien, die für verschiedene Geräte und Formate optimiert sind
+
+Arbeitet vollständig clientseitig ohne serverseitige Verarbeitung oder Speicherung
+
+wird kostenlos bereitgestellt
+
+ist in mehreren Sprachen verfügbar
+
+3\. Verantwortlichkeiten der BenutzerInnen und verbotene Nutzungen
+
+3.1. Zulässige Nutzung
+
+Sie dürfen den Dienst für persönliche und kommerzielle Zwecke nutzen, um Bilder und Videos zu komprimieren, die Sie rechtmäßig besitzen oder für deren Verarbeitung Sie eine ausdrückliche Genehmigung haben. Die automatisierte Nutzung des Dienstes ist zulässig.
+
+3.2. Verbotene Nutzung
+
+Sie erklären sich damit einverstanden, den Dienst NICHT für folgende Zwecke zu nutzen:
+
+Verarbeitung illegaler, schädlicher, bedrohlicher, beleidigender oder diffamierender Inhalte.
+
+Militärische Anwendungen oder Zwecke.
+
+Verletzung der geistigen Eigentumsrechte (z. B. Urheberrecht, Markenrecht) anderer.
+
+Versuche, den Dienst zurückzuentwickeln, zu hacken oder seine Integrität zu beeinträchtigen.
+
+Umgehung von Sicherheitsmaßnahmen
+
+Hochladen von bösartigen Dateien oder Inhalten, die dazu bestimmt sind, die Geräte anderer NutzerInnen zu schädigen
+
+4\. Rechte an geistigem Eigentum
+
+4.1. Benutzer/inneninhalte
+
+Sie behalten das vollständige Eigentum und alle Rechte an den Dateien, die Sie über den Dienst verarbeiten. Wir beanspruchen kein Eigentum oder Rechte an Ihren Inhalten oder den generierten Ausgabedateien. Sie sind allein dafür verantwortlich, sicherzustellen, dass Sie über die erforderlichen Rechte zur Verarbeitung der Inhalte verfügen.
+
+4.2. Dienst und Code
+
+Der Inhalt, das Branding und die Funktionen der Website des Dienstes sind unser geistiges Eigentum. Der Quellcode des Dienstes ist auf GitHub unter der MIT License verfügbar. Der Dienst nutzt Codec-Bibliotheken von Drittanbietern, die ihren jeweiligen Lizenzen unterliegen.
+
+5\. Datenschutz und Datenverarbeitung
+
+5.1. Dateiverarbeitung
+
+Die gesamte Dateiverarbeitung erfolgt vollständig in Ihrem Browser (clientseitig). Wir erhalten, speichern oder haben zu keinem Zeitpunkt Zugriff auf Ihre Dateien oder deren Inhalt.
+
+Wenn Sie die Google Drive-Schaltfläche zum Hochladen von Bildern verwenden, kann ein Popup erscheinen, das um Erlaubnis bittet, auf Ihren Namen, Ihre E-Mail-Adresse und Ihr Profilbild zuzugreifen. Diese Informationen werden nur in Ihrem Browser verwendet, um eine Verbindung zu Ihrem Google Drive herzustellen, und werden niemals an einen Server gesendet – Ihre persönlichen Daten bleiben sicher in Ihrem Browser.
+
+5.2. Analyse und Überwachung
+
+Wir erfassen begrenzte, anonyme Nutzungsdaten über Google Analytics 4, um den Dienst zu verbessern. Dazu gehören: Seitenaufrufe, Benutzerinteraktionen, Dateiformattypen (z. B. „PNG“), Abmessungen in Pixeln und Dateigrößen in Byte (Breite und Höhe). Diese Daten werden aggregiert und enthalten keine personenbezogenen Informationen. Wir erfassen ausdrücklich KEINE Dateinamen oder Dateiinhalte.
+
+5.3. Fehlerprotokollierung
+
+Wir verwenden Sentry für die automatisierte Fehlerprotokollierung, um Fehler zu identifizieren und zu beheben. Diese Daten können technische Informationen über Ihren Browser und Ihr Betriebssystem enthalten, umfassen jedoch nicht Ihre persönlichen Dateien.
+
+5.4. E-Mail-Kommunikation
+
+Wenn Sie unseren Newsletter freiwillig abonnieren, wird Ihre E-Mail-Adresse von Brevo ausschließlich zum Versand von Newslettern, Produktaktualisierungen und gelegentlichen servicebezogenen Erinnerungen gespeichert und verwaltet.
+Wir werden Ihre E-Mail-Adresse niemals verkaufen. Sie können sich jederzeit abmelden, und die Anmeldung ist keine Voraussetzung für die Nutzung des Dienstes.
+
+5.5. Einhaltung der DSGVO (DS-GVO)
+
+Unsere Datenverarbeitungsmethoden entsprechen der Datenschutz-Grundverordnung (DS-GVO). Sie haben das Recht, auf Ihre personenbezogenen Daten (z. B. Ihre E-Mail-Adresse) zuzugreifen, diese zu berichtigen oder deren Löschung zu verlangen.
+Wir verarbeiten Daten auf der Grundlage von:
+
+Einwilligung (wenn Sie E-Mails abonnieren)
+
+Berechtigtem Interesse (für anonyme Analysen und Fehlerüberwachung zur Verbesserung des Dienstes)
+
+5.6. Cookies
+
+Wir verwenden Cookies für Analysen (nur wenn Sie zustimmen). Cookies enthalten keine personenbezogenen Daten über Ihre Dateien. Sie können Cookies in Ihren Browsereinstellungen deaktivieren, jedoch können dadurch einige Funktionen eingeschränkt sein.
+
+6\. Haftungsausschluss und Haftungsbeschränkung
+
+6.1. „AS-IS”-Dienst
+
+Der Dienst wird „AS-IS” und „AS-AVAILABLE” bereitgestellt. Soweit gesetzlich zulässig, lehnen wir alle ausdrücklichen oder stillschweigenden Gewährleistungen ab, einschließlich, aber nicht beschränkt auf:
+
+Stillschweigende Gewährleistungen der Marktgängigkeit, Eignung für einen bestimmten Zweck und Nichtverletzung von Rechten Dritter.
+
+Genauigkeit, Zuverlässigkeit oder Vollständigkeit der Komprimierungsergebnisse
+
+Kompatibilität mit allen Dateiformaten oder Geräten
+
+6.2. Keine Garantien
+
+Wir garantieren nicht, dass der Dienst ununterbrochen und fehlerfrei funktioniert oder dass die Komprimierungsergebnisse Ihren spezifischen Anforderungen oder Qualitätsstandards entsprechen.
+
+6.3. Haftungsbeschränkung
+
+Soweit gesetzlich zulässig, haften wir nicht für direkte, indirekte, zufällige, besondere, Folge- oder Strafschäden, einschließlich Datenverlust, entgangener Gewinne oder Betriebsunterbrechungen, die sich aus der Nutzung oder der Unmöglichkeit der Nutzung der Funktion ergeben.
+
+7\. Entschädigung
+
+Sie erklären sich damit einverstanden, die Betreiber von Slingsite von allen Ansprüchen, Haftungen, Schäden, Verlusten und Ausgaben, einschließlich Anwaltskosten, freizustellen und schadlos zu halten, die sich aus Ihrem Zugriff auf oder Ihrer Nutzung des Dienstes, der Verletzung dieser Vereinbarung oder der Verletzung von Rechten Dritter ergeben oder in irgendeiner Weise damit zusammenhängen.
+
+8\. Zukünftige Monetarisierung
+
+Wir behalten uns das Recht vor, in Zukunft Monetarisierungsmethoden einzuführen, einschließlich Werbung, Affiliate-Marketing oder kostenpflichtige Premium-Funktionen.
+
+9\. Änderungen der Bedingungen
+
+Wir können diese Bedingungen jederzeit ändern, indem wir die überarbeiteten Bedingungen auf dieser Seite veröffentlichen. Änderungen treten sofort nach ihrer Veröffentlichung in Kraft. Ihre fortgesetzte Nutzung des Dienstes nach solchen Änderungen gilt als Ihre Zustimmung zu den neuen Bedingungen.
+
+10\. Kündigung
+
+Wir behalten uns das Recht vor, den Zugang zu unserem Dienst ohne vorherige Ankündigung und ohne Haftung aus beliebigen Gründen, einschließlich, aber nicht beschränkt auf Verstöße gegen die Bedingungen, sofort zu kündigen oder auszusetzen.
+
+11\. Anwendbares Recht und Gerichtsbarkeit
+
+Diese Bedingungen unterliegen spanischem Recht und sind entsprechend auszulegen. Alle Streitigkeiten, die sich aus diesen Bedingungen ergeben, werden vor den zuständigen Gerichten in Palma (Palma de Mallorca), Spanien, beigelegt.
+
+12\. Trennbarkeit
+
+Sollte eine Bestimmung dieser Bedingungen für nicht durchsetzbar oder ungültig erklärt werden, wird diese Bestimmung so geändert und ausgelegt, dass sie den Zielen dieser Bestimmung im Rahmen des geltenden Rechts so weit wie möglich entspricht, und die übrigen Bestimmungen bleiben in vollem Umfang in Kraft und wirksam.
+
+13\. Kontaktinformationen
+
+Bei Fragen zu diesen Bedingungen und Vereinbarungen wenden Sie sich bitte an https://github.com/damiarita/slingsite/issues.
+
+14\. Danksagungen
+
+Dieser Dienst wird durch Open-Source-Bibliotheken und Codecs von Drittanbietern ermöglicht. Wir sind der Open-Source-Community für ihre Beiträge sehr dankbar. Eine vollständige Liste der Abhängigkeiten finden Sie im Quellcode-Repository des Projekts.0:{"buildId":"rLo62Pgg7Aep92R4fpWmR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"title":"Allgemeine Geschäftsbedingungen","description":"Durch den Zugriff auf oder die Nutzung des unter https://slingsite.github.io verfügbaren Slingsite-Dienstes („Dienst“) erklären Sie sich mit diesen Allgemeinen Geschäftsbedingungen („AGB“) einverstanden. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, dürfen Sie nicht auf den Dienst zugreifen.","publicationDate":"2025-09-13T00:00:00.000Z","modificationDate":"2026-03-14T00:00:00.000Z","locale":"de","slug":"allgemeine-geschaftsbedingungen","body":{"raw":"$3","html":"$4"},"_id":"posts/de/t-and-c.mdx","_raw":{"sourceFilePath":"posts/de/t-and-c.mdx","sourceFileName":"t-and-c.mdx","sourceFileDir":"posts/de","contentType":"mdx","flattenedPath":"posts/de/t-and-c"},"type":"Post","text":"$5","id":"t-and-c.mdx","pathPrefix":"","fullSlug":"allgemeine-geschaftsbedingungen"},"locale":"de","translations":{"publidhed_on":"Veröffentlicht am","last_edited_on":"Zuletzt aktualisiert am"}}],null,"$L6"]}],"loading":null,"isPartial":false}
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[4936,["47","static/chunks/47-2d0e5de7350446ad.js","3902","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/page-322560e43aed7286.js"],"PostPageContent"]
+7:I[484,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T45a,
+# Wir legen Wert auf Ihre Privatsphäre
+
+Ihre Bilder und Videos verlassen niemals Ihr Gerät – die gesamte Verarbeitung erfolgt lokal in Ihrem Browser. Wir sehen, laden oder speichern Ihre Dateien nicht.
+
+Wenn Sie die Google Drive-Schaltfläche zum Hochladen von Bildern verwenden, kann ein Popup erscheinen, das um Erlaubnis bittet, auf Ihren Namen, Ihre E-Mail-Adresse und Ihr Profilbild zuzugreifen. Diese Informationen werden nur in Ihrem Browser verwendet, um eine Verbindung zu Ihrem Google Drive herzustellen, und werden niemals an einen Server gesendet – Ihre persönlichen Daten bleiben sicher in Ihrem Browser.
+
+Wir erfassen begrenzte, anonyme Nutzungsstatistiken über Google Analytics 4 (Dateiformat, Abmessungen, Größe) und Fehlerberichte über Sentry, um unseren Service zu verbessern. Wenn Sie unseren Newsletter über Brevo abonnieren, verwenden wir Ihre E-Mail-Adresse, um Ihnen Updates und Serviceerinnerungen zu senden. Sie können sich jederzeit abmelden oder die Löschung Ihrer Daten beantragen.
+Haben Sie Fragen? [Kontaktieren Sie uns](https://github.com/damiarita/slingsite/issues).
+4:T47c,<h1>Wir legen Wert auf Ihre Privatsphäre</h1>
+<p>Ihre Bilder und Videos verlassen niemals Ihr Gerät – die gesamte Verarbeitung erfolgt lokal in Ihrem Browser. Wir sehen, laden oder speichern Ihre Dateien nicht.</p>
+<p>Wenn Sie die Google Drive-Schaltfläche zum Hochladen von Bildern verwenden, kann ein Popup erscheinen, das um Erlaubnis bittet, auf Ihren Namen, Ihre E-Mail-Adresse und Ihr Profilbild zuzugreifen. Diese Informationen werden nur in Ihrem Browser verwendet, um eine Verbindung zu Ihrem Google Drive herzustellen, und werden niemals an einen Server gesendet – Ihre persönlichen Daten bleiben sicher in Ihrem Browser.</p>
+<p>Wir erfassen begrenzte, anonyme Nutzungsstatistiken über Google Analytics 4 (Dateiformat, Abmessungen, Größe) und Fehlerberichte über Sentry, um unseren Service zu verbessern. Wenn Sie unseren Newsletter über Brevo abonnieren, verwenden wir Ihre E-Mail-Adresse, um Ihnen Updates und Serviceerinnerungen zu senden. Sie können sich jederzeit abmelden oder die Löschung Ihrer Daten beantragen.
+Haben Sie Fragen? <a href="https://github.com/damiarita/slingsite/issues">Kontaktieren Sie uns</a>.</p>5:T425,Wir legen Wert auf Ihre Privatsphäre
+
+Ihre Bilder und Videos verlassen niemals Ihr Gerät – die gesamte Verarbeitung erfolgt lokal in Ihrem Browser. Wir sehen, laden oder speichern Ihre Dateien nicht.
+
+Wenn Sie die Google Drive-Schaltfläche zum Hochladen von Bildern verwenden, kann ein Popup erscheinen, das um Erlaubnis bittet, auf Ihren Namen, Ihre E-Mail-Adresse und Ihr Profilbild zuzugreifen. Diese Informationen werden nur in Ihrem Browser verwendet, um eine Verbindung zu Ihrem Google Drive herzustellen, und werden niemals an einen Server gesendet – Ihre persönlichen Daten bleiben sicher in Ihrem Browser.
+
+Wir erfassen begrenzte, anonyme Nutzungsstatistiken über Google Analytics 4 (Dateiformat, Abmessungen, Größe) und Fehlerberichte über Sentry, um unseren Service zu verbessern. Wenn Sie unseren Newsletter über Brevo abonnieren, verwenden wir Ihre E-Mail-Adresse, um Ihnen Updates und Serviceerinnerungen zu senden. Sie können sich jederzeit abmelden oder die Löschung Ihrer Daten beantragen.
+Haben Sie Fragen? Kontaktieren Sie uns.0:{"buildId":"rLo62Pgg7Aep92R4fpWmR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"title":"Kurze Datenschutzerklärung","description":"Ihre Bilder und Videos verlassen niemals Ihr Gerät – die gesamte Verarbeitung erfolgt lokal in Ihrem Browser. Wir sehen, laden oder speichern Ihre Dateien nicht.","publicationDate":"2025-09-13T00:00:00.000Z","modificationDate":"2026-03-14T00:00:00.000Z","locale":"de","slug":"datenschutzerklarung","body":{"raw":"$3","html":"$4"},"_id":"posts/de/privacy.mdx","_raw":{"sourceFilePath":"posts/de/privacy.mdx","sourceFileName":"privacy.mdx","sourceFileDir":"posts/de","contentType":"mdx","flattenedPath":"posts/de/privacy"},"type":"Post","text":"$5","id":"privacy.mdx","pathPrefix":"","fullSlug":"datenschutzerklarung"},"locale":"de","translations":{"publidhed_on":"Veröffentlicht am","last_edited_on":"Zuletzt aktualisiert am"}}],null,"$L6"]}],"loading":null,"isPartial":false}
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

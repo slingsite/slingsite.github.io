@@ -1,0 +1,134 @@
+1:"$Sreact.fragment"
+2:I[4936,["47","static/chunks/47-2d0e5de7350446ad.js","3902","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/page-322560e43aed7286.js"],"PostPageContent"]
+7:I[484,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:Tc46,
+# Slingsite : Conditions d'utilisation en langage clair
+
+Bienvenue sur Slingsite ! En utilisant Slingsite, vous acceptez nos [conditions légales officielles](/en/terms-and-conditions/).
+Mais voici l'essentiel en termes simples :
+
+## Vos fichiers restent vos propres fichiers et restent privés
+
+**Vos fichiers ne quittent jamais votre appareil**. Toute la compression s'effectue localement dans votre navigateur. Nous ne téléchargeons ni ne stockons vos fichiers, et vous conservez 100 % des droits sur votre contenu.
+
+Lorsque vous utilisez le bouton Google Drive pour télécharger des images, une fenêtre pop-up peut apparaître demandant l'autorisation d'accéder à votre nom, votre e-mail et votre photo de profil. Ces informations sont utilisées uniquement dans votre navigateur pour se connecter à votre Google Drive et ne sont jamais envoyées à un serveur – vos données personnelles restent en sécurité dans votre navigateur.
+
+## Utilisation gratuite
+
+Vous pouvez utiliser cet outil à des fins **personnelles, commerciales et même automatisées**. Nous voulons vous aider à créer des sites web plus rapidement !
+
+## Les règles
+
+Veuillez utiliser notre service de manière responsable. Vous ne pouvez pas :
+
+- Traiter du contenu illégal, préjudiciable ou obscène.
+- Utiliser ce service à des fins militaires.
+- Traiter du contenu qui enfreint les droits d'auteur ou la propriété intellectuelle d'autrui.
+- Tenter de pirater, de détruire ou d'abuser de notre site.
+
+## Aucune promesse, utilisation à vos propres risques
+
+Le service est fourni « tel quel ». Nous ne pouvons garantir qu'il sera toujours disponible ou qu'il fonctionnera parfaitement. **Vous l'utilisez à vos propres risques**, et nous ne sommes pas responsables des dommages, pertes de données ou problèmes de qualité qui pourraient survenir.
+
+## Vous êtes responsable des droits d'auteur
+
+Si vous compressez des fichiers dont vous ne détenez pas les droits, c'est à vous d'en assumer la responsabilité. Nous ne sommes pas responsables des violations des droits d'auteur par les utilisateurs.
+
+## Confidentialité et données
+
+- Nous utilisons Google Analytics pour suivre l'utilisation anonyme (par exemple, quels formats de fichiers sont les plus populaires). Nous ne suivons jamais le contenu ou les noms des fichiers.
+- Nous utilisons Sentry pour collecter les rapports d'erreurs afin de nous aider à corriger les bugs.
+- Si vous vous inscrivez à notre newsletter, nous ne vendrons jamais votre adresse e-mail et vous pouvez vous désabonner à tout moment.
+
+## Changements futurs
+
+Pour l'instant, le service est gratuit. À l'avenir, nous pourrions ajouter des publicités, des liens d'affiliation ou mettre à jour/interrompre le service.
+
+## Crédits et open source
+
+Notre site est open source sous licence MIT à l'adresse [https://github.com/damiarita/slingsite]. Nous remercions chaleureusement les bibliothèques tierces que nous utilisons pour faire fonctionner ce site.
+En utilisant Slingsite, vous acceptez ces conditions. Les mentions légales officielles sont disponibles ci-dessous et régies par la loi espagnole.
+4:Td55,<h1>Slingsite : Conditions d'utilisation en langage clair</h1>
+<p>Bienvenue sur Slingsite ! En utilisant Slingsite, vous acceptez nos <a href="/en/terms-and-conditions/">conditions légales officielles</a>.
+Mais voici l'essentiel en termes simples :</p>
+<h2>Vos fichiers restent vos propres fichiers et restent privés</h2>
+<p><strong>Vos fichiers ne quittent jamais votre appareil</strong>. Toute la compression s'effectue localement dans votre navigateur. Nous ne téléchargeons ni ne stockons vos fichiers, et vous conservez 100 % des droits sur votre contenu.</p>
+<p>Lorsque vous utilisez le bouton Google Drive pour télécharger des images, une fenêtre pop-up peut apparaître demandant l'autorisation d'accéder à votre nom, votre e-mail et votre photo de profil. Ces informations sont utilisées uniquement dans votre navigateur pour se connecter à votre Google Drive et ne sont jamais envoyées à un serveur – vos données personnelles restent en sécurité dans votre navigateur.</p>
+<h2>Utilisation gratuite</h2>
+<p>Vous pouvez utiliser cet outil à des fins <strong>personnelles, commerciales et même automatisées</strong>. Nous voulons vous aider à créer des sites web plus rapidement !</p>
+<h2>Les règles</h2>
+<p>Veuillez utiliser notre service de manière responsable. Vous ne pouvez pas :</p>
+<ul>
+<li>Traiter du contenu illégal, préjudiciable ou obscène.</li>
+<li>Utiliser ce service à des fins militaires.</li>
+<li>Traiter du contenu qui enfreint les droits d'auteur ou la propriété intellectuelle d'autrui.</li>
+<li>Tenter de pirater, de détruire ou d'abuser de notre site.</li>
+</ul>
+<h2>Aucune promesse, utilisation à vos propres risques</h2>
+<p>Le service est fourni « tel quel ». Nous ne pouvons garantir qu'il sera toujours disponible ou qu'il fonctionnera parfaitement. <strong>Vous l'utilisez à vos propres risques</strong>, et nous ne sommes pas responsables des dommages, pertes de données ou problèmes de qualité qui pourraient survenir.</p>
+<h2>Vous êtes responsable des droits d'auteur</h2>
+<p>Si vous compressez des fichiers dont vous ne détenez pas les droits, c'est à vous d'en assumer la responsabilité. Nous ne sommes pas responsables des violations des droits d'auteur par les utilisateurs.</p>
+<h2>Confidentialité et données</h2>
+<ul>
+<li>Nous utilisons Google Analytics pour suivre l'utilisation anonyme (par exemple, quels formats de fichiers sont les plus populaires). Nous ne suivons jamais le contenu ou les noms des fichiers.</li>
+<li>Nous utilisons Sentry pour collecter les rapports d'erreurs afin de nous aider à corriger les bugs.</li>
+<li>Si vous vous inscrivez à notre newsletter, nous ne vendrons jamais votre adresse e-mail et vous pouvez vous désabonner à tout moment.</li>
+</ul>
+<h2>Changements futurs</h2>
+<p>Pour l'instant, le service est gratuit. À l'avenir, nous pourrions ajouter des publicités, des liens d'affiliation ou mettre à jour/interrompre le service.</p>
+<h2>Crédits et open source</h2>
+<p>Notre site est open source sous licence MIT à l'adresse [<a href="https://github.com/damiarita/slingsite">https://github.com/damiarita/slingsite</a>]. Nous remercions chaleureusement les bibliothèques tierces que nous utilisons pour faire fonctionner ce site.
+En utilisant Slingsite, vous acceptez ces conditions. Les mentions légales officielles sont disponibles ci-dessous et régies par la loi espagnole.</p>5:Tbf9,Slingsite : Conditions d'utilisation en langage clair
+
+Bienvenue sur Slingsite ! En utilisant Slingsite, vous acceptez nos conditions légales officielles.
+Mais voici l'essentiel en termes simples :
+
+Vos fichiers restent vos propres fichiers et restent privés
+
+Vos fichiers ne quittent jamais votre appareil. Toute la compression s'effectue localement dans votre navigateur. Nous ne téléchargeons ni ne stockons vos fichiers, et vous conservez 100 % des droits sur votre contenu.
+
+Lorsque vous utilisez le bouton Google Drive pour télécharger des images, une fenêtre pop-up peut apparaître demandant l'autorisation d'accéder à votre nom, votre e-mail et votre photo de profil. Ces informations sont utilisées uniquement dans votre navigateur pour se connecter à votre Google Drive et ne sont jamais envoyées à un serveur – vos données personnelles restent en sécurité dans votre navigateur.
+
+Utilisation gratuite
+
+Vous pouvez utiliser cet outil à des fins personnelles, commerciales et même automatisées. Nous voulons vous aider à créer des sites web plus rapidement !
+
+Les règles
+
+Veuillez utiliser notre service de manière responsable. Vous ne pouvez pas :
+
+Traiter du contenu illégal, préjudiciable ou obscène.
+
+Utiliser ce service à des fins militaires.
+
+Traiter du contenu qui enfreint les droits d'auteur ou la propriété intellectuelle d'autrui.
+
+Tenter de pirater, de détruire ou d'abuser de notre site.
+
+Aucune promesse, utilisation à vos propres risques
+
+Le service est fourni « tel quel ». Nous ne pouvons garantir qu'il sera toujours disponible ou qu'il fonctionnera parfaitement. Vous l'utilisez à vos propres risques, et nous ne sommes pas responsables des dommages, pertes de données ou problèmes de qualité qui pourraient survenir.
+
+Vous êtes responsable des droits d'auteur
+
+Si vous compressez des fichiers dont vous ne détenez pas les droits, c'est à vous d'en assumer la responsabilité. Nous ne sommes pas responsables des violations des droits d'auteur par les utilisateurs.
+
+Confidentialité et données
+
+Nous utilisons Google Analytics pour suivre l'utilisation anonyme (par exemple, quels formats de fichiers sont les plus populaires). Nous ne suivons jamais le contenu ou les noms des fichiers.
+
+Nous utilisons Sentry pour collecter les rapports d'erreurs afin de nous aider à corriger les bugs.
+
+Si vous vous inscrivez à notre newsletter, nous ne vendrons jamais votre adresse e-mail et vous pouvez vous désabonner à tout moment.
+
+Changements futurs
+
+Pour l'instant, le service est gratuit. À l'avenir, nous pourrions ajouter des publicités, des liens d'affiliation ou mettre à jour/interrompre le service.
+
+Crédits et open source
+
+Notre site est open source sous licence MIT à l'adresse \[https://github.com/damiarita/slingsite]. Nous remercions chaleureusement les bibliothèques tierces que nous utilisons pour faire fonctionner ce site.
+En utilisant Slingsite, vous acceptez ces conditions. Les mentions légales officielles sont disponibles ci-dessous et régies par la loi espagnole.0:{"buildId":"rLo62Pgg7Aep92R4fpWmR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"title":"Conditions générales en langage clair","description":"Vos fichiers restent vos propres fichiers et restent privés. Utilisation gratuite. Aucune promesse, utilisation à vos propres risques. Confidentialité et données.","publicationDate":"2025-09-13T00:00:00.000Z","modificationDate":"2026-03-14T00:00:00.000Z","locale":"fr","slug":"conditions-generales-langage-clair","body":{"raw":"$3","html":"$4"},"_id":"posts/fr/short-t-and-c.mdx","_raw":{"sourceFilePath":"posts/fr/short-t-and-c.mdx","sourceFileName":"short-t-and-c.mdx","sourceFileDir":"posts/fr","contentType":"mdx","flattenedPath":"posts/fr/short-t-and-c"},"type":"Post","text":"$5","id":"short-t-and-c.mdx","pathPrefix":"","fullSlug":"conditions-generales-langage-clair"},"locale":"fr","translations":{"publidhed_on":"Publié le","last_edited_on":"Dernière mise à jour le"}}],null,"$L6"]}],"loading":null,"isPartial":false}
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
