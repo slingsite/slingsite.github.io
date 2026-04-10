@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[4936,["47","static/chunks/47-2d0e5de7350446ad.js","7142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-322560e43aed7286.js"],"PostPageContent"]
+2:I[4936,["47","static/chunks/47-520429a682fe1436.js","7142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-5a0bd83a31641e13.js"],"PostPageContent"]
 7:I[484,[],"OutletBoundary"]
 8:"$Sreact.suspense"
 3:Te57,
@@ -229,6 +229,6 @@ Choose Kraken.io if: You need a hands-off WordPress plugin or an API to integrat
 Choose Slingsite if: You want a free, fast, and private way to optimize images and videos without worrying about monthly subscriptions or file size caps.
 
 Ready to optimize your site?
-Try Slingsite for free and see the difference in your PageSpeed scores.0:{"buildId":"rLo62Pgg7Aep92R4fpWmR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"title":"Kraken.io vs. Slingsite: Which Image Optimizer is Best for 2026?","description":"Kraken.io vs. Slingsite: Which Image Optimizer is Best for 2026?","publicationDate":"2026-04-11T00:00:00.000Z","modificationDate":"2026-04-11T00:00:00.000Z","locale":"en","slug":"kraken","body":{"raw":"$3","html":"$4"},"_id":"posts/en/slingsite-vs/kraken.mdx","_raw":{"sourceFilePath":"posts/en/slingsite-vs/kraken.mdx","sourceFileName":"kraken.mdx","sourceFileDir":"posts/en/slingsite-vs","contentType":"mdx","flattenedPath":"posts/en/slingsite-vs/kraken"},"type":"Post","text":"$5","id":"kraken.mdx","pathPrefix":"slingsite-vs","fullSlug":"slingsite-vs/kraken"},"locale":"en","translations":{"publidhed_on":"Published on","last_edited_on":"Last updated on"}}],null,"$L6"]}],"loading":null,"isPartial":false}
+Try Slingsite for free and see the difference in your PageSpeed scores.0:{"buildId":"1bct2IJ462mUiJd6EXSYj","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"title":"Kraken.io vs. Slingsite: Which Image Optimizer is Best for 2026?","description":"Kraken.io vs. Slingsite: Which Image Optimizer is Best for 2026?","publicationDate":"2026-04-11T00:00:00.000Z","modificationDate":"2026-04-11T00:00:00.000Z","locale":"en","slug":"kraken","slugPrefix":"slingsite-vs","body":{"raw":"$3","html":"$4"},"_id":"posts/en/vs/kraken.mdx","_raw":{"sourceFilePath":"posts/en/vs/kraken.mdx","sourceFileName":"kraken.mdx","sourceFileDir":"posts/en/vs","contentType":"mdx","flattenedPath":"posts/en/vs/kraken"},"type":"Post","text":"$5","id":"kraken.mdx","pathPrefix":"slingsite-vs","fullSlug":"slingsite-vs/kraken"},"locale":"en","translations":{"publidhed_on":"Published on","last_edited_on":"Last updated on","browse_posts_description":"Browse articles and updates in this category."}}],null,"$L6"]}],"loading":null,"isPartial":false}
 6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
 9:null

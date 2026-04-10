@@ -1,0 +1,255 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[484,[],"ViewportBoundary"]
+b:I[484,[],"MetadataBoundary"]
+d:I[7123,[],""]
+:HL["/_next/static/css/3bc905bb0d99656c.css","style"]
+:HL["/_next/static/css/8f7e004da4c236f6.css","style"]
+0:{"P":null,"b":"1bct2IJ462mUiJd6EXSYj","c":["","de","slingsite-vergleich",""],"q":"","i":false,"f":[[["",{"children":[["locale","de","d"],{"children":[["slug1","slingsite-vergleich","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3bc905bb0d99656c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/8f7e004da4c236f6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[7007,["2264","static/chunks/2264-d18560cf9c0b272a.js","47","static/chunks/47-520429a682fe1436.js","3902","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/page-8d29a3bd44dfbfb7.js"],"PostListing"]
+f:T1108,
+# Kraken.io vs. Slingsite: Welcher Bildoptimierer ist der beste für 2026?
+
+In der Welt der Web-Performance sind Bild- und Video-Optimierung für SEO unverzichtbar. Jahrelang war Kraken.io das Standardwerkzeug für Webmaster. Doch während sich die Browsertechnologie weiterentwickelt, verändern clientseitige Tools wie Slingsite die Spielregeln.
+
+Wenn Sie sich zwischen **Kraken.io** und **Slingsite** entscheiden müssen, zeigt dieser Leitfaden die Unterschiede in Bezug auf Leistung, Datenschutz und Kosten auf.
+
+---
+
+## Auf einen Blick: Die wichtigsten Unterschiede
+
+| Funktion                |          Kraken.io           |            Slingsite            |
+| :---------------------- | :--------------------------: | :-----------------------------: |
+| **Modell**              |      SaaS / Abonnement       |   **Kostenlos / Open Source**   |
+| **Verarbeitung**        |     Cloud (Serverseitig)     |    **Lokal (Clientseitig)**     |
+| **Registrierung**       |         Erforderlich         |            **Keine**            |
+| **Video-Unterstützung** |             Nein             |        **Ja (MP4/WebM)**        |
+| **Datenschutz**         |  Dateien werden hochgeladen  | **100% Privat (Keine Uploads)** |
+| **Massenlimits**        | Im kostenlosen Plan begrenzt |         **Unbegrenzt**          |
+
+---
+
+## Kraken.io: Der Unternehmensstandard
+
+Kraken.io ist ein robustes, cloudbasiertes Tool, das für seine API und WordPress-Integration bekannt ist. Es wurde für Teams entwickelt, die ihren Workflow über ein CMS automatisieren möchten.
+
+### Vorteile
+
+- **Leistungsstarke API:** Perfekt für Entwickler, die groß angelegte Anwendungen erstellen.
+- **WordPress-Plugin:** Optimiert Bilder automatisch beim Hochladen auf Ihre Website.
+- **Verlustfreie Optionen:** Hervorragend geeignet, um die maximale Qualität für Fotografen zu erhalten.
+
+### Nachteile
+
+- **Kostspielig:** Die kostenlose Stufe ist auf 100 MB begrenzt. Danach liegen die Preise zwischen 5 $ und 79 $ pro Monat.
+- **Upload-Latenz:** Sie müssen Ihre Dateien auf deren Server hochladen, sie verarbeiten lassen und dann wieder herunterladen.
+- **Kein Video:** Kraken ist ausschließlich für Bilder gedacht, sodass Sie ein zweites Tool für Video-Assets benötigen.
+
+---
+
+## Slingsite: Die moderne, private Alternative
+
+[Slingsite](/) ist ein leichtgewichtiges, browserbasiertes Dienstprogramm. Es nutzt die Leistung Ihrer eigenen Hardware, um Dateien zu komprimieren, wodurch ein "Zwischenserver" überflüssig wird.
+
+### Vorteile
+
+- **100% Kostenlos:** Keine Abonnements, keine "Pro"-Versionen und keine Kreditkarte erforderlich.
+- **Vollständige Privatsphäre:** Da die Verarbeitung clientseitig erfolgt, werden Ihre Bilder und Videos niemals auf einen Server hochgeladen. Dies ist der Goldstandard für sensible Daten.
+- **Video-Kompression:** Im Gegensatz zu Kraken verarbeitet Slingsite Videodateien und ist damit ein "One-Stop-Shop" für Web-Assets.
+- **Keine Dateigrößenbeschränkungen:** Da Sie nicht die Serverbandbreite eines anderen nutzen, können Sie große Dateien ohne Quotenbeschränkung optimieren.
+
+### Nachteile
+
+- **Keine API:** Slingsite ist ein webbasiertes Tool für die manuelle Optimierung, nicht für die Hintergrund-Server-Automatisierung.
+- **Browserabhängig:** Die Leistung hängt von der Rechenleistung Ihres Geräts ab (obwohl moderne Browser dies problemlos bewältigen).
+
+---
+
+## Warum "Client-Side" im Jahr 2026 gewinnt
+
+Die größte Veränderung in der Webentwicklung ist in letzter Zeit die Abkehr von zentralisierter Verarbeitung. Wenn Sie Kraken.io nutzen, bezahlen Sie für deren Serverwartung.
+
+Wenn Sie **Slingsite** nutzen, verwenden Sie die Funktionen Ihres eigenen Browsers. Dies eliminiert die "Upload -> Verarbeiten -> Download"-Schleife und macht es für Massenaufgaben deutlich schneller.
+
+## Das Urteil
+
+- **Wählen Sie Kraken.io, wenn:** Sie ein automatisiertes WordPress-Plugin oder eine API zur Integration in eine maßgeschneiderte App benötigen.
+- **Wählen Sie Slingsite, wenn:** Sie eine kostenlose, schnelle und private Möglichkeit zur Bild- und Video-Optimierung suchen, ohne sich Gedanken über monatliche Abonnements oder Dateigrößenbeschränkungen machen zu müssen.
+
+**Bereit, Ihre Website zu optimieren?**
+[Testen Sie Slingsite kostenlos](/) und sehen Sie den Unterschied in Ihren PageSpeed-Werten.
+10:T1486,<h1>Kraken.io vs. Slingsite: Welcher Bildoptimierer ist der beste für 2026?</h1>
+<p>In der Welt der Web-Performance sind Bild- und Video-Optimierung für SEO unverzichtbar. Jahrelang war Kraken.io das Standardwerkzeug für Webmaster. Doch während sich die Browsertechnologie weiterentwickelt, verändern clientseitige Tools wie Slingsite die Spielregeln.</p>
+<p>Wenn Sie sich zwischen <strong>Kraken.io</strong> und <strong>Slingsite</strong> entscheiden müssen, zeigt dieser Leitfaden die Unterschiede in Bezug auf Leistung, Datenschutz und Kosten auf.</p>
+<hr>
+<h2>Auf einen Blick: Die wichtigsten Unterschiede</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Funktion</th>
+<th align="center">Kraken.io</th>
+<th align="center">Slingsite</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>Modell</strong></td>
+<td align="center">SaaS / Abonnement</td>
+<td align="center"><strong>Kostenlos / Open Source</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>Verarbeitung</strong></td>
+<td align="center">Cloud (Serverseitig)</td>
+<td align="center"><strong>Lokal (Clientseitig)</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>Registrierung</strong></td>
+<td align="center">Erforderlich</td>
+<td align="center"><strong>Keine</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>Video-Unterstützung</strong></td>
+<td align="center">Nein</td>
+<td align="center"><strong>Ja (MP4/WebM)</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>Datenschutz</strong></td>
+<td align="center">Dateien werden hochgeladen</td>
+<td align="center"><strong>100% Privat (Keine Uploads)</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>Massenlimits</strong></td>
+<td align="center">Im kostenlosen Plan begrenzt</td>
+<td align="center"><strong>Unbegrenzt</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Kraken.io: Der Unternehmensstandard</h2>
+<p>Kraken.io ist ein robustes, cloudbasiertes Tool, das für seine API und WordPress-Integration bekannt ist. Es wurde für Teams entwickelt, die ihren Workflow über ein CMS automatisieren möchten.</p>
+<h3>Vorteile</h3>
+<ul>
+<li><strong>Leistungsstarke API:</strong> Perfekt für Entwickler, die groß angelegte Anwendungen erstellen.</li>
+<li><strong>WordPress-Plugin:</strong> Optimiert Bilder automatisch beim Hochladen auf Ihre Website.</li>
+<li><strong>Verlustfreie Optionen:</strong> Hervorragend geeignet, um die maximale Qualität für Fotografen zu erhalten.</li>
+</ul>
+<h3>Nachteile</h3>
+<ul>
+<li><strong>Kostspielig:</strong> Die kostenlose Stufe ist auf 100 MB begrenzt. Danach liegen die Preise zwischen 5 $ und 79 $ pro Monat.</li>
+<li><strong>Upload-Latenz:</strong> Sie müssen Ihre Dateien auf deren Server hochladen, sie verarbeiten lassen und dann wieder herunterladen.</li>
+<li><strong>Kein Video:</strong> Kraken ist ausschließlich für Bilder gedacht, sodass Sie ein zweites Tool für Video-Assets benötigen.</li>
+</ul>
+<hr>
+<h2>Slingsite: Die moderne, private Alternative</h2>
+<p><a href="/">Slingsite</a> ist ein leichtgewichtiges, browserbasiertes Dienstprogramm. Es nutzt die Leistung Ihrer eigenen Hardware, um Dateien zu komprimieren, wodurch ein "Zwischenserver" überflüssig wird.</p>
+<h3>Vorteile</h3>
+<ul>
+<li><strong>100% Kostenlos:</strong> Keine Abonnements, keine "Pro"-Versionen und keine Kreditkarte erforderlich.</li>
+<li><strong>Vollständige Privatsphäre:</strong> Da die Verarbeitung clientseitig erfolgt, werden Ihre Bilder und Videos niemals auf einen Server hochgeladen. Dies ist der Goldstandard für sensible Daten.</li>
+<li><strong>Video-Kompression:</strong> Im Gegensatz zu Kraken verarbeitet Slingsite Videodateien und ist damit ein "One-Stop-Shop" für Web-Assets.</li>
+<li><strong>Keine Dateigrößenbeschränkungen:</strong> Da Sie nicht die Serverbandbreite eines anderen nutzen, können Sie große Dateien ohne Quotenbeschränkung optimieren.</li>
+</ul>
+<h3>Nachteile</h3>
+<ul>
+<li><strong>Keine API:</strong> Slingsite ist ein webbasiertes Tool für die manuelle Optimierung, nicht für die Hintergrund-Server-Automatisierung.</li>
+<li><strong>Browserabhängig:</strong> Die Leistung hängt von der Rechenleistung Ihres Geräts ab (obwohl moderne Browser dies problemlos bewältigen).</li>
+</ul>
+<hr>
+<h2>Warum "Client-Side" im Jahr 2026 gewinnt</h2>
+<p>Die größte Veränderung in der Webentwicklung ist in letzter Zeit die Abkehr von zentralisierter Verarbeitung. Wenn Sie Kraken.io nutzen, bezahlen Sie für deren Serverwartung.</p>
+<p>Wenn Sie <strong>Slingsite</strong> nutzen, verwenden Sie die Funktionen Ihres eigenen Browsers. Dies eliminiert die "Upload -> Verarbeiten -> Download"-Schleife und macht es für Massenaufgaben deutlich schneller.</p>
+<h2>Das Urteil</h2>
+<ul>
+<li><strong>Wählen Sie Kraken.io, wenn:</strong> Sie ein automatisiertes WordPress-Plugin oder eine API zur Integration in eine maßgeschneiderte App benötigen.</li>
+<li><strong>Wählen Sie Slingsite, wenn:</strong> Sie eine kostenlose, schnelle und private Möglichkeit zur Bild- und Video-Optimierung suchen, ohne sich Gedanken über monatliche Abonnements oder Dateigrößenbeschränkungen machen zu müssen.</li>
+</ul>
+<p><strong>Bereit, Ihre Website zu optimieren?</strong>
+<a href="/">Testen Sie Slingsite kostenlos</a> und sehen Sie den Unterschied in Ihren PageSpeed-Werten.</p>11:T103c,Kraken.io vs. Slingsite: Welcher Bildoptimierer ist der beste für 2026?
+
+In der Welt der Web-Performance sind Bild- und Video-Optimierung für SEO unverzichtbar. Jahrelang war Kraken.io das Standardwerkzeug für Webmaster. Doch während sich die Browsertechnologie weiterentwickelt, verändern clientseitige Tools wie Slingsite die Spielregeln.
+
+Wenn Sie sich zwischen Kraken.io und Slingsite entscheiden müssen, zeigt dieser Leitfaden die Unterschiede in Bezug auf Leistung, Datenschutz und Kosten auf.
+
+Auf einen Blick: Die wichtigsten Unterschiede
+
+| Funktion                |          Kraken.io           |            Slingsite            |
+| :---------------------- | :--------------------------: | :-----------------------------: |
+| Modell              |      SaaS / Abonnement       |   Kostenlos / Open Source   |
+| Verarbeitung        |     Cloud (Serverseitig)     |    Lokal (Clientseitig)     |
+| Registrierung       |         Erforderlich         |            Keine            |
+| Video-Unterstützung |             Nein             |        Ja (MP4/WebM)        |
+| Datenschutz         |  Dateien werden hochgeladen  | 100% Privat (Keine Uploads) |
+| Massenlimits        | Im kostenlosen Plan begrenzt |         Unbegrenzt          |
+
+Kraken.io: Der Unternehmensstandard
+
+Kraken.io ist ein robustes, cloudbasiertes Tool, das für seine API und WordPress-Integration bekannt ist. Es wurde für Teams entwickelt, die ihren Workflow über ein CMS automatisieren möchten.
+
+Vorteile
+
+Leistungsstarke API: Perfekt für Entwickler, die groß angelegte Anwendungen erstellen.
+
+WordPress-Plugin: Optimiert Bilder automatisch beim Hochladen auf Ihre Website.
+
+Verlustfreie Optionen: Hervorragend geeignet, um die maximale Qualität für Fotografen zu erhalten.
+
+Nachteile
+
+Kostspielig: Die kostenlose Stufe ist auf 100 MB begrenzt. Danach liegen die Preise zwischen 5 $ und 79 $ pro Monat.
+
+Upload-Latenz: Sie müssen Ihre Dateien auf deren Server hochladen, sie verarbeiten lassen und dann wieder herunterladen.
+
+Kein Video: Kraken ist ausschließlich für Bilder gedacht, sodass Sie ein zweites Tool für Video-Assets benötigen.
+
+Slingsite: Die moderne, private Alternative
+
+Slingsite ist ein leichtgewichtiges, browserbasiertes Dienstprogramm. Es nutzt die Leistung Ihrer eigenen Hardware, um Dateien zu komprimieren, wodurch ein "Zwischenserver" überflüssig wird.
+
+Vorteile
+
+100% Kostenlos: Keine Abonnements, keine "Pro"-Versionen und keine Kreditkarte erforderlich.
+
+Vollständige Privatsphäre: Da die Verarbeitung clientseitig erfolgt, werden Ihre Bilder und Videos niemals auf einen Server hochgeladen. Dies ist der Goldstandard für sensible Daten.
+
+Video-Kompression: Im Gegensatz zu Kraken verarbeitet Slingsite Videodateien und ist damit ein "One-Stop-Shop" für Web-Assets.
+
+Keine Dateigrößenbeschränkungen: Da Sie nicht die Serverbandbreite eines anderen nutzen, können Sie große Dateien ohne Quotenbeschränkung optimieren.
+
+Nachteile
+
+Keine API: Slingsite ist ein webbasiertes Tool für die manuelle Optimierung, nicht für die Hintergrund-Server-Automatisierung.
+
+Browserabhängig: Die Leistung hängt von der Rechenleistung Ihres Geräts ab (obwohl moderne Browser dies problemlos bewältigen).
+
+Warum "Client-Side" im Jahr 2026 gewinnt
+
+Die größte Veränderung in der Webentwicklung ist in letzter Zeit die Abkehr von zentralisierter Verarbeitung. Wenn Sie Kraken.io nutzen, bezahlen Sie für deren Serverwartung.
+
+Wenn Sie Slingsite nutzen, verwenden Sie die Funktionen Ihres eigenen Browsers. Dies eliminiert die "Upload -> Verarbeiten -> Download"-Schleife und macht es für Massenaufgaben deutlich schneller.
+
+Das Urteil
+
+Wählen Sie Kraken.io, wenn: Sie ein automatisiertes WordPress-Plugin oder eine API zur Integration in eine maßgeschneiderte App benötigen.
+
+Wählen Sie Slingsite, wenn: Sie eine kostenlose, schnelle und private Möglichkeit zur Bild- und Video-Optimierung suchen, ohne sich Gedanken über monatliche Abonnements oder Dateigrößenbeschränkungen machen zu müssen.
+
+Bereit, Ihre Website zu optimieren?
+Testen Sie Slingsite kostenlos und sehen Sie den Unterschied in Ihren PageSpeed-Werten.5:["$","$Le",null,{"posts":[{"title":"Kraken.io vs. Slingsite: Welcher Bildoptimierer ist der beste für 2026?","description":"Kraken.io vs. Slingsite: Welcher Bildoptimierer ist der beste für 2026?","publicationDate":"2026-04-11T00:00:00.000Z","modificationDate":"2026-04-11T00:00:00.000Z","locale":"de","slug":"kraken","slugPrefix":"slingsite-vergleich","body":{"raw":"$f","html":"$10"},"_id":"posts/de/vs/kraken.mdx","_raw":{"sourceFilePath":"posts/de/vs/kraken.mdx","sourceFileName":"kraken.mdx","sourceFileDir":"posts/de/vs","contentType":"mdx","flattenedPath":"posts/de/vs/kraken"},"type":"Post","text":"$11","id":"kraken.mdx","pathPrefix":"slingsite-vergleich","fullSlug":"slingsite-vergleich/kraken"}],"locale":"de","title":"Slingsite-vergleich","translations":{"publidhed_on":"Veröffentlicht am","last_edited_on":"Zuletzt aktualisiert am","browse_posts_description":"Durchsuchen Sie Artikel und Updates in dieser Kategorie."}}]
+12:I[506,["9584","static/chunks/9584-9a492e55d99c54dc.js","47","static/chunks/47-520429a682fe1436.js","8450","static/chunks/app/%5Blocale%5D/layout-ae524dfff226aa3c.js"],"default"]
+4:["$","html",null,{"lang":"de","dir":"ltr","children":["$","body",null,{"children":["$","div",null,{"className":"bg-gray-50 min-h-screen font-sans","children":[["$","header",null,{"className":"bg-white/80 backdrop-blur-md shadow-sm sticky top-0 z-40","children":["$","$L12",null,{"locale":"de","items":[{"pageType":"image","label":"Bildkompressor"},{"pageType":"video","label":"Videokompressor"}]}]}],["$","main",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-white border-t border-gray-200 mt-12","children":["$","div",null,{"className":"max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"xl:grid xl:grid-cols-3 xl:gap-8","children":[["$","div",null,{"className":"space-y-8 xl:col-span-1","children":[["$","div",null,{"className":"flex items-center space-x-3","children":[["$","svg",null,{"className":"h-8 w-8 text-blue-600","viewBox":"0 0 220 220","fill":"none","xmlns":"http://www.w3.org/2000/svg","children":[["$","path",null,{"d":"M62,32 C76,110 122,80 135,198","stroke":"currentColor","strokeWidth":"20","strokeLinecap":"round","strokeLinejoin":"round"}],["$","ellipse",null,{"cx":"153","cy":"41","rx":"22","ry":"15","transform":"rotate(135, 153, 41)","fill":"currentColor"}]]}],["$","span",null,{"className":"text-2xl font-bold text-gray-800","children":"SlingSite"}]]}],["$","p",null,{"className":"text-gray-500 text-base","children":"Das moderne Tool für leistungsstarke Bildoptimierung."}]]}],["$","div",null,{"className":"mt-12 grid grid-cols-2 gap-8 xl:mt-0 xl:col-span-2","children":[["$","div",null,{"className":"md:grid md:grid-cols-2 md:gap-8","children":[["$","div",null,{"children":[["$","h2",null,{"className":"text-sm font-semibold text-gray-500 tracking-wider uppercase","children":"Verbinden"}],["$","ul",null,{"className":"mt-4 mb-4 space-y-4","children":[["$","li",null,{"children":["$","a",null,{"href":"/de/suscribe/","className":"text-base text-gray-500 hover:text-gray-900","children":"Abonnieren"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://github.com/damiarita/slingsite/issues","className":"text-base text-gray-500 hover:text-gray-900","title":"Issues · damiarita/slingsite","target":"_blank","rel":"noopener noreferrer","children":"Kontakt"}]}]]}],["$","a",null,{"href":"/de/slingsite-vergleich/","children":["$","h2",null,{"className":"text-sm font-semibold text-gray-500 tracking-wider uppercase","children":"Vergleiche"}]}],["$","ul",null,{"className":"mt-4 space-y-4","children":["$","li",null,{"children":["$","a",null,{"href":"/de/slingsite-vergleich/kraken/","className":"text-base text-gray-500 hover:text-gray-900","children":"Kraken.io vs. Slingsite: Welcher Bildoptimierer ist der beste für 2026?"}]}]}]]}],["$","div",null,{"className":"mt-12 md:mt-0","children":[["$","h2",null,{"className":"text-sm font-semibold text-gray-500 tracking-wider uppercase","children":"Rechtliches"}],["$","ul",null,{"className":"mt-4 space-y-4","children":[["$","li",null,{"children":["$","a",null,{"href":"/de/datenschutzerklarung/","className":"text-base text-gray-500 hover:text-gray-900","children":"Kurze Datenschutzerklärung"}]}],["$","li",null,{"children":["$","a",null,{"href":"/de/allgemeine-geschaftsbedingungen-einfacher-sprache/","className":"text-base text-gray-500 hover:text-gray-900","children":"Allgemeine Geschäftsbedingungen in einfacher Sprache"}]}],["$","li",null,{"children":["$","a",null,{"href":"/de/allgemeine-geschaftsbedingungen/","className":"text-base text-gray-500 hover:text-gray-900","children":"Allgemeine Geschäftsbedingungen"}]}],["$","li",null,{"children":["$","button",null,{"data-cc":"show-preferencesModal","className":"text-base text-gray-500 hover:text-gray-900","children":"Cookies"}]}]]}]]}]]}],["$","div",null,{"className":"md:grid md:grid-cols-2 md:gap-8","children":[["$","div",null,{"children":[["$","h2",null,{"className":"text-sm font-semibold text-gray-500 tracking-wider uppercase","children":"Entwicklung"}],["$","ul",null,{"className":"mt-4 space-y-4","children":[["$","li",null,{"children":["$","a",null,{"href":"https://github.com/damiarita/slingsite","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center text-base text-gray-500 hover:text-gray-900","children":"Quellcode"}]}],"$L13"]}]]}],"$L14"]}]]}]]}],"$L15"]}]}],"$L16","$L17","$L18"]}]}]}]
+19:I[290,["9584","static/chunks/9584-9a492e55d99c54dc.js","47","static/chunks/47-520429a682fe1436.js","8450","static/chunks/app/%5Blocale%5D/layout-ae524dfff226aa3c.js"],"default"]
+1a:I[3149,["9584","static/chunks/9584-9a492e55d99c54dc.js","47","static/chunks/47-520429a682fe1436.js","8450","static/chunks/app/%5Blocale%5D/layout-ae524dfff226aa3c.js"],"default"]
+1b:I[285,["9584","static/chunks/9584-9a492e55d99c54dc.js","47","static/chunks/47-520429a682fe1436.js","8450","static/chunks/app/%5Blocale%5D/layout-ae524dfff226aa3c.js"],"GoogleTagManager"]
+13:["$","li",null,{"children":["$","a",null,{"href":"https://github.com/damiarita/slingsite/issues","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center text-base text-gray-500 hover:text-gray-900","children":"Issues"}]}]
+14:["$","div",null,{"className":"mt-12 md:mt-0","children":[["$","h2",null,{"className":"text-sm font-semibold text-gray-500 tracking-wider uppercase","children":"Sprachen"}],["$","ul",null,{"className":"mt-4 space-y-4","children":["$","li",null,{"children":["$","$L19",null,{"currentLocale":"de"}]}]}]]}]
+15:["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8","children":["$","p",null,{"className":"text-base text-gray-400 text-center","children":["© ",2026," SlingSite. ","Alle Rechte vorbehalten."]}]}]
+16:["$","$L1a",null,{"translations":{"consentModal":{"label":"Cookie-Banner","title":"Wir verwenden Cookies!","description":"Hallo, diese Website verwendet erforderliche Cookies für den ordnungsgemäßen Betrieb und Tracking-Cookies, um zu verstehen, wie Sie mit ihr interagieren. Letztere werden nur nach Ihrer Zustimmung gesetzt.","acceptAllBtn":"Alle Cookies akzeptieren","acceptNecessaryBtn":"Nur Notwendige","showPreferencesBtn":"Cookie-Einstellungen","closeIconLabel":"Schließen"},"preferencesModal":{"title":"Cookie-Einstellungen","acceptAllBtn":"Alle Cookies akzeptieren","acceptNecessaryBtn":"Nur Notwendige","savePreferencesBtn":"Einstellungen speichern","closeIconLabel":"Schließen","sections":[{"title":"Über Cookies","description":"Ein Cookie ist ein kleines Textstück, das unser Webserver auf Ihrem Computer oder mobilen Gerät speichert, wenn Sie unsere Website besuchen. Es hilft uns, Ihre Erfahrung zu verbessern, indem es Ihre Präferenzen und wiederholten Besuche speichert. Einige Cookies sind für das ordnungsgemäße Funktionieren der Website unerlässlich, während andere uns helfen zu verstehen, wie Sie mit unserer Website interagieren und Ihr Browsing-Erlebnis verbessern."},{"title":"Notwendige Cookies","description":"Diese Cookies sind für das ordnungsgemäße Funktionieren der Website unerlässlich. Sie gewährleisten grundlegende Funktionalitäten und Sicherheitsmerkmale der Website, anonym.","linkedCategory":"necessary"},{"title":"Analyse-Cookies","description":"Diese Cookies helfen uns zu verstehen, wie Besucher mit unserer Website interagieren, indem sie Informationen anonym sammeln und melden.","linkedCategory":"analytics"}]}},"locale":"de"}]
+17:["$","$L1b",null,{"gtmId":"GTM-THHRLH4N"}]
+18:["$","style",null,{"children":".toggle-checkbox:checked { right: 0; border-color: #2563eb; } .toggle-checkbox:checked + .toggle-label { background-color: #2563eb; }"}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1c:I[6869,[],"IconMark"]
+8:null
+c:[["$","title","0",{"children":"Slingsite-vergleich"}],["$","meta","1",{"name":"description","content":"Durchsuchen Sie Artikel und Updates in dieser Kategorie."}],["$","link","2",{"rel":"canonical","href":"https://slingsite.github.io/de/slingsite-vergleich/"}],["$","link","3",{"rel":"alternate","hrefLang":"ar","href":"https://slingsite.github.io/ar/slingsite-mukarana/"}],["$","link","4",{"rel":"alternate","hrefLang":"de","href":"https://slingsite.github.io/de/slingsite-vergleich/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://slingsite.github.io/en/slingsite-vs/"}],["$","link","6",{"rel":"alternate","hrefLang":"es","href":"https://slingsite.github.io/es/comparativa-slingsite/"}],["$","link","7",{"rel":"alternate","hrefLang":"fr","href":"https://slingsite.github.io/fr/comparatif-slingsite/"}],["$","link","8",{"rel":"alternate","hrefLang":"it","href":"https://slingsite.github.io/it/slingsite-confronto/"}],["$","link","9",{"rel":"alternate","hrefLang":"zh","href":"https://slingsite.github.io/zh/slingsite-duibi/"}],["$","link","10",{"rel":"icon","href":"/favicon.ico?86ef4e54c8a47cf5","type":"image/x-icon","sizes":"256x256"}],["$","$L1c","11",{}]]

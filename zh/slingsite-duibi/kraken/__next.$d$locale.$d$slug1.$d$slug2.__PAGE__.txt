@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[4936,["47","static/chunks/47-2d0e5de7350446ad.js","7142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-322560e43aed7286.js"],"PostPageContent"]
+2:I[4936,["47","static/chunks/47-520429a682fe1436.js","7142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-5a0bd83a31641e13.js"],"PostPageContent"]
 7:I[484,[],"OutletBoundary"]
 8:"$Sreact.suspense"
 3:Tdd5,
@@ -229,6 +229,6 @@ Slingsite 是一款轻量级的基于浏览器的工具。它利用你自身设�
 选择 Slingsite 如果： 你想要一种免费、快速且私密的方式来优化图像和视频，而不必担心月费或文件大小限制。
 
 准备好优化你的网站了吗？
-免费试用 Slingsite，体验 PageSpeed 分数的提升。0:{"buildId":"rLo62Pgg7Aep92R4fpWmR","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"title":"Kraken.io vs. Slingsite：哪款图像优化器最适合 2026 年？","description":"Kraken.io vs. Slingsite：哪款图像优化器最适合 2026 年？","publicationDate":"2026-04-11T00:00:00.000Z","modificationDate":"2026-04-11T00:00:00.000Z","locale":"zh","slug":"kraken","body":{"raw":"$3","html":"$4"},"_id":"posts/zh/slingsite-duibi/kraken.mdx","_raw":{"sourceFilePath":"posts/zh/slingsite-duibi/kraken.mdx","sourceFileName":"kraken.mdx","sourceFileDir":"posts/zh/slingsite-duibi","contentType":"mdx","flattenedPath":"posts/zh/slingsite-duibi/kraken"},"type":"Post","text":"$5","id":"kraken.mdx","pathPrefix":"slingsite-duibi","fullSlug":"slingsite-duibi/kraken"},"locale":"zh","translations":{"publidhed_on":"发布于","last_edited_on":"最后更新于"}}],null,"$L6"]}],"loading":null,"isPartial":false}
+免费试用 Slingsite，体验 PageSpeed 分数的提升。0:{"buildId":"1bct2IJ462mUiJd6EXSYj","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"title":"Kraken.io vs. Slingsite：哪款图像优化器最适合 2026 年？","description":"Kraken.io vs. Slingsite：哪款图像优化器最适合 2026 年？","publicationDate":"2026-04-11T00:00:00.000Z","modificationDate":"2026-04-11T00:00:00.000Z","locale":"zh","slug":"kraken","slugPrefix":"slingsite-duibi","body":{"raw":"$3","html":"$4"},"_id":"posts/zh/vs/kraken.mdx","_raw":{"sourceFilePath":"posts/zh/vs/kraken.mdx","sourceFileName":"kraken.mdx","sourceFileDir":"posts/zh/vs","contentType":"mdx","flattenedPath":"posts/zh/vs/kraken"},"type":"Post","text":"$5","id":"kraken.mdx","pathPrefix":"slingsite-duibi","fullSlug":"slingsite-duibi/kraken"},"locale":"zh","translations":{"publidhed_on":"发布于","last_edited_on":"最后更新于","browse_posts_description":"在此类别中浏览文章和更新。"}}],null,"$L6"]}],"loading":null,"isPartial":false}
 6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
 9:null

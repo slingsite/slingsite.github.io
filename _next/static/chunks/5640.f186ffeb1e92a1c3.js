@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5640],{5640:e=>{e.exports=JSON.parse('{"publidhed_on":"Pubblicato il","last_edited_on":"Ultimo aggiornamento il","browse_posts_description":"Sfoglia articoli e aggiornamenti in questa categoria."}')}}]);
