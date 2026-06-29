@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7154],{7154:e=>{e.exports=JSON.parse('{"publidhed_on":"نُشر في","last_edited_on":"آخر تحديث في","browse_posts_description":"تصفح المقالات والتحديثات في هذه الفئة."}')}}]);

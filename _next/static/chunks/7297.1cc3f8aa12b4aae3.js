@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7297],{7297:e=>{e.exports=JSON.parse('{"publidhed_on":"Publi\xe9 le","last_edited_on":"Derni\xe8re mise \xe0 jour le","browse_posts_description":"Parcourez les articles et les mises \xe0 jour dans cette cat\xe9gorie."}')}}]);

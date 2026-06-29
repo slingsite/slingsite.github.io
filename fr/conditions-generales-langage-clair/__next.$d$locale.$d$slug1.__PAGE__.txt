@@ -1,55 +1,9 @@
 1:"$Sreact.fragment"
-2:I[4936,["2264","static/chunks/2264-d18560cf9c0b272a.js","47","static/chunks/47-520429a682fe1436.js","3902","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/page-8d29a3bd44dfbfb7.js"],"PostPageContent"]
-7:I[484,[],"OutletBoundary"]
-8:"$Sreact.suspense"
-3:Tc46,
-# Slingsite : Conditions d'utilisation en langage clair
-
-Bienvenue sur Slingsite ! En utilisant Slingsite, vous acceptez nos [conditions légales officielles](/en/terms-and-conditions/).
-Mais voici l'essentiel en termes simples :
-
-## Vos fichiers restent vos propres fichiers et restent privés
-
-**Vos fichiers ne quittent jamais votre appareil**. Toute la compression s'effectue localement dans votre navigateur. Nous ne téléchargeons ni ne stockons vos fichiers, et vous conservez 100 % des droits sur votre contenu.
-
-Lorsque vous utilisez le bouton Google Drive pour télécharger des images, une fenêtre pop-up peut apparaître demandant l'autorisation d'accéder à votre nom, votre e-mail et votre photo de profil. Ces informations sont utilisées uniquement dans votre navigateur pour se connecter à votre Google Drive et ne sont jamais envoyées à un serveur – vos données personnelles restent en sécurité dans votre navigateur.
-
-## Utilisation gratuite
-
-Vous pouvez utiliser cet outil à des fins **personnelles, commerciales et même automatisées**. Nous voulons vous aider à créer des sites web plus rapidement !
-
-## Les règles
-
-Veuillez utiliser notre service de manière responsable. Vous ne pouvez pas :
-
-- Traiter du contenu illégal, préjudiciable ou obscène.
-- Utiliser ce service à des fins militaires.
-- Traiter du contenu qui enfreint les droits d'auteur ou la propriété intellectuelle d'autrui.
-- Tenter de pirater, de détruire ou d'abuser de notre site.
-
-## Aucune promesse, utilisation à vos propres risques
-
-Le service est fourni « tel quel ». Nous ne pouvons garantir qu'il sera toujours disponible ou qu'il fonctionnera parfaitement. **Vous l'utilisez à vos propres risques**, et nous ne sommes pas responsables des dommages, pertes de données ou problèmes de qualité qui pourraient survenir.
-
-## Vous êtes responsable des droits d'auteur
-
-Si vous compressez des fichiers dont vous ne détenez pas les droits, c'est à vous d'en assumer la responsabilité. Nous ne sommes pas responsables des violations des droits d'auteur par les utilisateurs.
-
-## Confidentialité et données
-
-- Nous utilisons Google Analytics pour suivre l'utilisation anonyme (par exemple, quels formats de fichiers sont les plus populaires). Nous ne suivons jamais le contenu ou les noms des fichiers.
-- Nous utilisons Sentry pour collecter les rapports d'erreurs afin de nous aider à corriger les bugs.
-- Si vous vous inscrivez à notre newsletter, nous ne vendrons jamais votre adresse e-mail et vous pouvez vous désabonner à tout moment.
-
-## Changements futurs
-
-Pour l'instant, le service est gratuit. À l'avenir, nous pourrions ajouter des publicités, des liens d'affiliation ou mettre à jour/interrompre le service.
-
-## Crédits et open source
-
-Notre site est open source sous licence MIT à l'adresse [https://github.com/damiarita/slingsite]. Nous remercions chaleureusement les bibliothèques tierces que nous utilisons pour faire fonctionner ce site.
-En utilisant Slingsite, vous acceptez ces conditions. Les mentions légales officielles sont disponibles ci-dessous et régies par la loi espagnole.
-4:Td55,<h1>Slingsite : Conditions d'utilisation en langage clair</h1>
+5:I[8500,["8500","static/chunks/8500-97a2f8062e39b5e4.js","3902","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/page-08c7c8825774f57b.js"],""]
+8:I[484,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+2:Te3c,{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"/fr/conditions-generales-langage-clair/"},"url":"/fr/conditions-generales-langage-clair/","headline":"Conditions générales en langage clair","articleBody":"Slingsite : Conditions d'utilisation en langage clair\n\nBienvenue sur Slingsite ! En utilisant Slingsite, vous acceptez nos conditions légales officielles.\nMais voici l'essentiel en termes simples :\n\nVos fichiers restent vos propres fichiers et restent privés\n\nVos fichiers ne quittent jamais votre appareil. Toute la compression s'effectue localement dans votre navigateur. Nous ne téléchargeons ni ne stockons vos fichiers, et vous conservez 100 % des droits sur votre contenu.\n\nLorsque vous utilisez le bouton Google Drive pour télécharger des images, une fenêtre pop-up peut apparaître demandant l'autorisation d'accéder à votre nom, votre e-mail et votre photo de profil. Ces informations sont utilisées uniquement dans votre navigateur pour se connecter à votre Google Drive et ne sont jamais envoyées à un serveur – vos données personnelles restent en sécurité dans votre navigateur.\n\nUtilisation gratuite\n\nVous pouvez utiliser cet outil à des fins personnelles, commerciales et même automatisées. Nous voulons vous aider à créer des sites web plus rapidement !\n\nLes règles\n\nVeuillez utiliser notre service de manière responsable. Vous ne pouvez pas :\n\nTraiter du contenu illégal, préjudiciable ou obscène.\n\nUtiliser ce service à des fins militaires.\n\nTraiter du contenu qui enfreint les droits d'auteur ou la propriété intellectuelle d'autrui.\n\nTenter de pirater, de détruire ou d'abuser de notre site.\n\nAucune promesse, utilisation à vos propres risques\n\nLe service est fourni « tel quel ». Nous ne pouvons garantir qu'il sera toujours disponible ou qu'il fonctionnera parfaitement. Vous l'utilisez à vos propres risques, et nous ne sommes pas responsables des dommages, pertes de données ou problèmes de qualité qui pourraient survenir.\n\nVous êtes responsable des droits d'auteur\n\nSi vous compressez des fichiers dont vous ne détenez pas les droits, c'est à vous d'en assumer la responsabilité. Nous ne sommes pas responsables des violations des droits d'auteur par les utilisateurs.\n\nConfidentialité et données\n\nNous utilisons Google Analytics pour suivre l'utilisation anonyme (par exemple, quels formats de fichiers sont les plus populaires). Nous ne suivons jamais le contenu ou les noms des fichiers.\n\nNous utilisons Sentry pour collecter les rapports d'erreurs afin de nous aider à corriger les bugs.\n\nSi vous vous inscrivez à notre newsletter, nous ne vendrons jamais votre adresse e-mail et vous pouvez vous désabonner à tout moment.\n\nChangements futurs\n\nPour l'instant, le service est gratuit. À l'avenir, nous pourrions ajouter des publicités, des liens d'affiliation ou mettre à jour/interrompre le service.\n\nCrédits et open source\n\nNotre site est open source sous licence MIT à l'adresse \\[https://github.com/damiarita/slingsite]. Nous remercions chaleureusement les bibliothèques tierces que nous utilisons pour faire fonctionner ce site.\nEn utilisant Slingsite, vous acceptez ces conditions. Les mentions légales officielles sont disponibles ci-dessous et régies par la loi espagnole.","description":"Vos fichiers restent vos propres fichiers et restent privés. Utilisation gratuite. Aucune promesse, utilisation à vos propres risques. Confidentialité et données.","datePublished":"2025-09-13T00:00:00.000Z","dateModified":"2026-03-14T00:00:00.000Z"}0:{"buildId":"udZoZL-X2g1h7wZ48IPhn","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","children":"$2"}],"$L3"],null,"$L4"]}],"loading":null,"isPartial":false}
+6:Td55,<h1>Slingsite : Conditions d'utilisation en langage clair</h1>
 <p>Bienvenue sur Slingsite ! En utilisant Slingsite, vous acceptez nos <a href="/en/terms-and-conditions/">conditions légales officielles</a>.
 Mais voici l'essentiel en termes simples :</p>
 <h2>Vos fichiers restent vos propres fichiers et restent privés</h2>
@@ -79,56 +33,7 @@ Mais voici l'essentiel en termes simples :</p>
 <p>Pour l'instant, le service est gratuit. À l'avenir, nous pourrions ajouter des publicités, des liens d'affiliation ou mettre à jour/interrompre le service.</p>
 <h2>Crédits et open source</h2>
 <p>Notre site est open source sous licence MIT à l'adresse [<a href="https://github.com/damiarita/slingsite">https://github.com/damiarita/slingsite</a>]. Nous remercions chaleureusement les bibliothèques tierces que nous utilisons pour faire fonctionner ce site.
-En utilisant Slingsite, vous acceptez ces conditions. Les mentions légales officielles sont disponibles ci-dessous et régies par la loi espagnole.</p>5:Tbf9,Slingsite : Conditions d'utilisation en langage clair
-
-Bienvenue sur Slingsite ! En utilisant Slingsite, vous acceptez nos conditions légales officielles.
-Mais voici l'essentiel en termes simples :
-
-Vos fichiers restent vos propres fichiers et restent privés
-
-Vos fichiers ne quittent jamais votre appareil. Toute la compression s'effectue localement dans votre navigateur. Nous ne téléchargeons ni ne stockons vos fichiers, et vous conservez 100 % des droits sur votre contenu.
-
-Lorsque vous utilisez le bouton Google Drive pour télécharger des images, une fenêtre pop-up peut apparaître demandant l'autorisation d'accéder à votre nom, votre e-mail et votre photo de profil. Ces informations sont utilisées uniquement dans votre navigateur pour se connecter à votre Google Drive et ne sont jamais envoyées à un serveur – vos données personnelles restent en sécurité dans votre navigateur.
-
-Utilisation gratuite
-
-Vous pouvez utiliser cet outil à des fins personnelles, commerciales et même automatisées. Nous voulons vous aider à créer des sites web plus rapidement !
-
-Les règles
-
-Veuillez utiliser notre service de manière responsable. Vous ne pouvez pas :
-
-Traiter du contenu illégal, préjudiciable ou obscène.
-
-Utiliser ce service à des fins militaires.
-
-Traiter du contenu qui enfreint les droits d'auteur ou la propriété intellectuelle d'autrui.
-
-Tenter de pirater, de détruire ou d'abuser de notre site.
-
-Aucune promesse, utilisation à vos propres risques
-
-Le service est fourni « tel quel ». Nous ne pouvons garantir qu'il sera toujours disponible ou qu'il fonctionnera parfaitement. Vous l'utilisez à vos propres risques, et nous ne sommes pas responsables des dommages, pertes de données ou problèmes de qualité qui pourraient survenir.
-
-Vous êtes responsable des droits d'auteur
-
-Si vous compressez des fichiers dont vous ne détenez pas les droits, c'est à vous d'en assumer la responsabilité. Nous ne sommes pas responsables des violations des droits d'auteur par les utilisateurs.
-
-Confidentialité et données
-
-Nous utilisons Google Analytics pour suivre l'utilisation anonyme (par exemple, quels formats de fichiers sont les plus populaires). Nous ne suivons jamais le contenu ou les noms des fichiers.
-
-Nous utilisons Sentry pour collecter les rapports d'erreurs afin de nous aider à corriger les bugs.
-
-Si vous vous inscrivez à notre newsletter, nous ne vendrons jamais votre adresse e-mail et vous pouvez vous désabonner à tout moment.
-
-Changements futurs
-
-Pour l'instant, le service est gratuit. À l'avenir, nous pourrions ajouter des publicités, des liens d'affiliation ou mettre à jour/interrompre le service.
-
-Crédits et open source
-
-Notre site est open source sous licence MIT à l'adresse \[https://github.com/damiarita/slingsite]. Nous remercions chaleureusement les bibliothèques tierces que nous utilisons pour faire fonctionner ce site.
-En utilisant Slingsite, vous acceptez ces conditions. Les mentions légales officielles sont disponibles ci-dessous et régies par la loi espagnole.0:{"buildId":"1bct2IJ462mUiJd6EXSYj","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"title":"Conditions générales en langage clair","description":"Vos fichiers restent vos propres fichiers et restent privés. Utilisation gratuite. Aucune promesse, utilisation à vos propres risques. Confidentialité et données.","publicationDate":"2025-09-13T00:00:00.000Z","modificationDate":"2026-03-14T00:00:00.000Z","locale":"fr","slug":"conditions-generales-langage-clair","body":{"raw":"$3","html":"$4"},"_id":"posts/fr/legal/short-t-and-c.mdx","_raw":{"sourceFilePath":"posts/fr/legal/short-t-and-c.mdx","sourceFileName":"short-t-and-c.mdx","sourceFileDir":"posts/fr/legal","contentType":"mdx","flattenedPath":"posts/fr/legal/short-t-and-c"},"type":"Post","text":"$5","id":"short-t-and-c.mdx","pathPrefix":"","fullSlug":"conditions-generales-langage-clair"},"locale":"fr","translations":{"publidhed_on":"Publié le","last_edited_on":"Dernière mise à jour le","browse_posts_description":"Parcourez les articles et les mises à jour dans cette catégorie."}}],null,"$L6"]}],"loading":null,"isPartial":false}
-6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
-9:null
+En utilisant Slingsite, vous acceptez ces conditions. Les mentions légales officielles sont disponibles ci-dessous et régies par la loi espagnole.</p>3:["$","div",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","nav",null,{"className":"flex mb-8","aria-label":"Breadcrumb","children":["$","ol",null,{"className":"inline-flex items-center space-x-1 md:space-x-3 text-sm font-medium text-gray-500","children":[["$","li",null,{"className":"inline-flex items-center","children":["$","$L5",null,{"href":"/fr","className":"inline-flex items-center hover:text-blue-600 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-house w-4 h-4 mr-2","aria-hidden":"true","children":[["$","path","5wwlr5",{"d":"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"}],["$","path","r6nss1",{"d":"M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Home"}]]}]}],[["$","li","0",{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right w-4 h-4 mx-1 text-gray-400","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}],["$","span",null,{"className":"text-gray-900 font-semibold truncate max-w-[150px] md:max-w-none","children":"Conditions générales en langage clair"}]]}]]]}]}],["$","header",null,{"className":"mb-12","children":["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-sm text-gray-500 border-y border-gray-100 py-6","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4 text-blue-500","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":["Publié le"," ",["$","time",null,{"dateTime":"2025-09-13T00:00:00.000Z","children":"13 septembre 2025"}]]}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4 text-emerald-500","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":[3," ","min de lecture"]}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-pen-line w-4 h-4 text-amber-500","aria-hidden":"true","children":[["$","path","1jsn5i",{"d":"M13 21h8"}],["$","path","1a8usu",{"d":"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z"}],"$undefined"]}],["$","span",null,{"children":["Dernière mise à jour le"," ",["$","time",null,{"dateTime":"2026-03-14T00:00:00.000Z","children":"14 mars 2026"}]]}]]}]]}]}],["$","article",null,{"className":"prose prose-lg max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-blue-600 hover:prose-a:text-blue-700 prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:bg-blue-50/50 prose-blockquote:px-6 prose-blockquote:rounded-r-lg prose-img:rounded-2xl prose-img:shadow-xl","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]}],"$L7"]}]
+4:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+7:["$","footer",null,{"className":"mt-16 pt-8 border-t border-gray-100","children":["$","div",null,{"className":"bg-gradient-to-br from-blue-50 to-indigo-50 p-8 rounded-3xl border border-blue-100 flex flex-col md:flex-row items-center justify-between gap-6","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","h2",null,{"className":"text-lg font-bold text-gray-900 mb-1","children":"Cet article vous a plu?"}],["$","p",null,{"className":"text-gray-600","children":"Partagez-le avec vos collègues ou abonnez-vous pour en recevoir d'autres."}]]}],["$","div",null,{"className":"flex gap-4","children":["$","$L5",null,{"href":"/fr/suscribe","className":"px-6 py-3 bg-blue-600 text-white font-semibold rounded-xl hover:bg-blue-700 transition-all shadow-lg shadow-blue-200 active:scale-95","children":"S'abonner"}]}]]}]}]
+a:null
