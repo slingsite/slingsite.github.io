@@ -960,6 +960,6 @@
 
     <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
     <!-- End Brevo Form --></div>    
-    0:{"buildId":"7_XqTPDmD2r1d1tKcMgcu","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
+    0:{"buildId":"QfgtF4BN3yN721p0zFRBh","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
