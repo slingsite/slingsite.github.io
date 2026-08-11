@@ -961,7 +961,7 @@
 
       <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
       <!-- End Brevo Form --></div>    
-      0:{"buildId":"LAFsUbuokfk5NXmUkKMSO","rsc":["$","$1","c",{"children":[[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"loading":null,"isPartial":false}
+      0:{"buildId":"0WkLYf6MWGenbQCGMV7JE","rsc":["$","$1","c",{"children":[[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"loading":null,"isPartial":false}
 3:["$","$L5",null,{"id":"base-datalayer","dangerouslySetInnerHTML":{"__html":"window.dataLayer = window.dataLayer || [];window.dataLayer.push({\"locale\":\"de\",\"pageType\":\"subscribe\"});"}}]
 4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
