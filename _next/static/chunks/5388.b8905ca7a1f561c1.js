@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5388],{5388:e=>{e.exports=JSON.parse('{"yourFiles":"您的文件","downloadAllFiles":"下载全部文件","uploadMoreFiles":"上传一些文件即可开始！","waiting":"等待中","running":"运行中","error":"错误","compressing":"正在压缩...","inQueue":"正在排队...","compressedFiles":"已压缩文件"}')}}]);

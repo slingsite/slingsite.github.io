@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1380],{1380:e=>{e.exports=JSON.parse('{"imageCompressor":"Compresor de Im\xe1genes","videoCompressor":"Compresor de V\xeddeo"}')}}]);

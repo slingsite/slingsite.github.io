@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2184],{2184:e=>{e.exports=JSON.parse('{"title":"Optimize Your Web Videos","subtitle":"Upload your videos and get perfectly sized, next-gen formats for every device. Improve your site\'s speed and SEO."}')}}]);

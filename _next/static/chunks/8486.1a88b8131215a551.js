@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8486],{8486:e=>{e.exports=JSON.parse('{"title":"Optimize Your Web Images","subtitle":"Upload your images and get perfectly sized, next-gen formats for every device. Improve your site\'s speed and SEO."}')}}]);

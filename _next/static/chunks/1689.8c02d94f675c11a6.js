@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1689],{1689:e=>{e.exports=JSON.parse('{"title":"Optimiza Tus Im\xe1genes Web","subtitle":"Sube tus im\xe1genes y obt\xe9n formatos de \xfaltima generaci\xf3n y tama\xf1o perfecto para cada dispositivo. Mejora la velocidad y el SEO de tu sitio."}')}}]);

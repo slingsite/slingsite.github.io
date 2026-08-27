@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4032],{4032:e=>{e.exports=JSON.parse('{"desktop":"桌面","tablet":"平板","mobile":"移动设备"}')}}]);
