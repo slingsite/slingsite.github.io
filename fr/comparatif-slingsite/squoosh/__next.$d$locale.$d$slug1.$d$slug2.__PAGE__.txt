@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+2:I[2593,["564","static/chunks/564-602557e51b71c19f.js","142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-61ba89a1475775fe.js"],""]
+7:I[4564,["564","static/chunks/564-602557e51b71c19f.js","142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-61ba89a1475775fe.js"],"default"]
+8:I[8500,["564","static/chunks/564-602557e51b71c19f.js","142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-61ba89a1475775fe.js"],""]
+b:I[5425,["564","static/chunks/564-602557e51b71c19f.js","142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-61ba89a1475775fe.js"],"default"]
+c:I[484,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T1300,{"@context":"https://schema.org","@type":"TechArticle","mainEntityOfPage":{"@type":"WebPage","@id":"/fr/comparatif-slingsite/squoosh/"},"url":"/fr/comparatif-slingsite/squoosh/","headline":"Squoosh vs. Slingsite : Quel outil remporte la victoire ?","articleBody":"Squoosh vs. Slingsite : Quel optimiseur basé sur le navigateur vous convient le mieux ?\n\nQuand il s'agit de compression côté client dans le navigateur, Squoosh (créé par Google Chrome Labs) a établi la référence en matière de puissance des applications web. Comme il fonctionne localement, il offre une excellente confidentialité et un contrôle avancé des codecs.\n\nCependant, si vous gérez un workflow complet pour un site web, vous avez probablement déjà remarqué la limite principale de Squoosh : il est conçu pour traiter une seule image à la fois.\n\nSi vous hésitez entre Squoosh et Slingsite, voici comment ils se comparent pour les tâches réelles de développement web et de SEO.\n\nEn un coup d'œil : Les différences clés\n\n| Fonctionnalité      | Squoosh                                     | Slingsite                                |\n| :------------------ | :------------------------------------------ | :--------------------------------------- |\n| Workflow        | Fichier unique (contrôle manuel approfondi) | Traitement par lots (vitesse et SEO) |\n| Support vidéo   | Non                                         | Oui (MP4/WebM)                       |\n| Interface       | Curseurs avancés et codecs                  | Glisser-déposer simplifié            |\n| Confidentialité | Côté client (local)                         | Côté client (local)                  |\n| Prix            | Gratuit / Open Source                       | 100 % gratuit / Open Source          |\n\nSquoosh : Le laboratoire avancé des codecs\n\nSquoosh est une prouesse technique remarquable. Il permet aux développeurs d'expérimenter avec des codecs d'image avancés (comme MozJPEG, OxiPNG et AVIF) et d'inspecter les changements pixel par pixel grâce à son célèbre curseur de comparaison en écran partagé.\n\nAvantages\n\nContrôle fin : Réglage précis inégalé pour les images individuelles et les codecs spécialisés.\n\nContrôle visuel de la qualité : Le curseur interactif permet de comparer précisément la réduction des artefacts.\n\nFonctionne hors ligne : Fonctionne entièrement hors ligne sous forme de PWA.\n\nInconvénients\n\nPas de traitement par lots : Vous devez traiter les images une par une. Si vous avez un dossier de 40 actifs pour un nouvel article de blog, Squoosh devient un goulot d'étranglement fastidieux.\n\nPas de support vidéo : Squoosh est strictement limité aux images.\n\nSurchargé pour les tâches rapides : Si vous voulez juste un fichier web prêt à l'emploi, le nombre de paramètres techniques peut ralentir le processus.\n\nSlingsite : Conçu pour la vitesse et les workflows de production\n\nSlingsite partage la même philosophie fondamentale que Squoosh : garder tout privé et côté client, mais il bascule l'accent d'un environnement expérimental de \"laboratoire\" vers un outil de production pratique.\n\nAvantages\n\nVrai traitement par lots : Déposez un lot entier d'images et de vidéos et compressez-les toutes en une seule fois.\n\nSupport image et vidéo : Gère les deux types de médias dans une seule interface, ce qui simplifie votre pipeline d'actifs.\n\nOptimisé pour le SEO : Des réglages préconfigurés vous donnent le bon équilibre entre compression et qualité sans avoir besoin d'un diplôme en codecs d'image.\n\nAucun upload vers un serveur : Comme Squoosh, vos fichiers restent entièrement sur votre appareil, garantissant une confidentialité totale.\n\nInconvénients\n\nMoins de réglages manuels de codecs : Slingsite mise sur des résultats rapides et efficaces plutôt que sur la micro-gestion des algorithmes de compression pixel par pixel.\n\nLe verdict : le choix à faire\n\nChoisissez Squoosh si : Vous êtes un designer qui teste une image principale, ou si vous voulez expérimenter profondément avec des codecs web avancés et des contrôles de qualité au niveau du pixel.\n\nChoisissez Slingsite si : Vous êtes un webmaster, un développeur ou un créateur de contenu qui doit compresser rapidement, proprement et sans encombre un lot entier d'images et de vidéos.\n\nPrêt à fluidifier votre workflow ?\nArrêtez de traiter les fichiers un par un. Essayez Slingsite gratuitement aujourd'hui et gérez tout votre dossier média en quelques secondes.","description":"Comparaison de Squoosh et Slingsite. Découvrez pourquoi les développeurs choisissent Slingsite pour compresser en masse les images et les vidéos plutôt que l'outil à fichier unique de Google.","datePublished":"2026-08-28T00:00:00.000Z","dateModified":"2026-08-28T00:00:00.000Z"}0:{"buildId":"H-930CJM7SN-NDFXHOkc8","rsc":["$","$1","c",{"children":[[[["$","$L2",null,{"type":"application/ld+json","children":"$3"}],"$L4"],"$L5"],null,"$L6"]}],"loading":null,"isPartial":false}
+9:T1414,<h1>Squoosh vs. Slingsite : Quel optimiseur basé sur le navigateur vous convient le mieux ?</h1>
+<p>Quand il s'agit de compression côté client dans le navigateur, <strong>Squoosh</strong> (créé par Google Chrome Labs) a établi la référence en matière de puissance des applications web. Comme il fonctionne localement, il offre une excellente confidentialité et un contrôle avancé des codecs.</p>
+<p>Cependant, si vous gérez un workflow complet pour un site web, vous avez probablement déjà remarqué la limite principale de Squoosh : il est conçu pour traiter une seule image à la fois.</p>
+<p>Si vous hésitez entre Squoosh et <strong>Slingsite</strong>, voici comment ils se comparent pour les tâches réelles de développement web et de SEO.</p>
+<hr>
+<h2>En un coup d'œil : Les différences clés</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Fonctionnalité</th>
+<th align="left">Squoosh</th>
+<th align="left">Slingsite</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>Workflow</strong></td>
+<td align="left">Fichier unique (contrôle manuel approfondi)</td>
+<td align="left"><strong>Traitement par lots (vitesse et SEO)</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>Support vidéo</strong></td>
+<td align="left">Non</td>
+<td align="left"><strong>Oui (MP4/WebM)</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>Interface</strong></td>
+<td align="left">Curseurs avancés et codecs</td>
+<td align="left"><strong>Glisser-déposer simplifié</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>Confidentialité</strong></td>
+<td align="left">Côté client (local)</td>
+<td align="left"><strong>Côté client (local)</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>Prix</strong></td>
+<td align="left">Gratuit / Open Source</td>
+<td align="left"><strong>100 % gratuit / Open Source</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Squoosh : Le laboratoire avancé des codecs</h2>
+<p>Squoosh est une prouesse technique remarquable. Il permet aux développeurs d'expérimenter avec des codecs d'image avancés (comme MozJPEG, OxiPNG et AVIF) et d'inspecter les changements pixel par pixel grâce à son célèbre curseur de comparaison en écran partagé.</p>
+<h3>Avantages</h3>
+<ul>
+<li><strong>Contrôle fin :</strong> Réglage précis inégalé pour les images individuelles et les codecs spécialisés.</li>
+<li><strong>Contrôle visuel de la qualité :</strong> Le curseur interactif permet de comparer précisément la réduction des artefacts.</li>
+<li><strong>Fonctionne hors ligne :</strong> Fonctionne entièrement hors ligne sous forme de PWA.</li>
+</ul>
+<h3>Inconvénients</h3>
+<ul>
+<li><strong>Pas de traitement par lots :</strong> Vous devez traiter les images une par une. Si vous avez un dossier de 40 actifs pour un nouvel article de blog, Squoosh devient un goulot d'étranglement fastidieux.</li>
+<li><strong>Pas de support vidéo :</strong> Squoosh est strictement limité aux images.</li>
+<li><strong>Surchargé pour les tâches rapides :</strong> Si vous voulez juste un fichier web prêt à l'emploi, le nombre de paramètres techniques peut ralentir le processus.</li>
+</ul>
+<hr>
+<h2>Slingsite : Conçu pour la vitesse et les workflows de production</h2>
+<p><a href="https://slingsite.github.io">Slingsite</a> partage la même philosophie fondamentale que Squoosh : garder tout privé et côté client, mais il bascule l'accent d'un environnement expérimental de "laboratoire" vers un outil de production pratique.</p>
+<h3>Avantages</h3>
+<ul>
+<li><strong>Vrai traitement par lots :</strong> Déposez un lot entier d'images et de vidéos et compressez-les toutes en une seule fois.</li>
+<li><strong>Support image et vidéo :</strong> Gère les deux types de médias dans une seule interface, ce qui simplifie votre pipeline d'actifs.</li>
+<li><strong>Optimisé pour le SEO :</strong> Des réglages préconfigurés vous donnent le bon équilibre entre compression et qualité sans avoir besoin d'un diplôme en codecs d'image.</li>
+<li><strong>Aucun upload vers un serveur :</strong> Comme Squoosh, vos fichiers restent entièrement sur votre appareil, garantissant une confidentialité totale.</li>
+</ul>
+<h3>Inconvénients</h3>
+<ul>
+<li><strong>Moins de réglages manuels de codecs :</strong> Slingsite mise sur des résultats rapides et efficaces plutôt que sur la micro-gestion des algorithmes de compression pixel par pixel.</li>
+</ul>
+<hr>
+<h2>Le verdict : le choix à faire</h2>
+<ul>
+<li><strong>Choisissez Squoosh si :</strong> Vous êtes un designer qui teste une image principale, ou si vous voulez expérimenter profondément avec des codecs web avancés et des contrôles de qualité au niveau du pixel.</li>
+<li><strong>Choisissez Slingsite si :</strong> Vous êtes un webmaster, un développeur ou un créateur de contenu qui doit compresser rapidement, proprement et sans encombre un lot entier d'images et de vidéos.</li>
+</ul>
+<p><strong>Prêt à fluidifier votre workflow ?</strong>
+Arrêtez de traiter les fichiers un par un. <a href="https://slingsite.github.io">Essayez Slingsite gratuitement aujourd'hui</a> et gérez tout votre dossier média en quelques secondes.</p>4:["$","div",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","nav",null,{"className":"flex mb-8","aria-label":"Breadcrumb","children":["$","ol",null,{"className":"inline-flex items-center space-x-1 md:space-x-3 text-sm font-medium text-gray-500","children":[["$","li",null,{"className":"inline-flex items-center","children":["$","$L7",null,{"href":{"pathname":"/fr"},"locale":"fr","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"inline-flex items-center hover:text-blue-600 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-house w-4 h-4 mr-2","aria-hidden":"true","children":[["$","path","5wwlr5",{"d":"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"}],["$","path","r6nss1",{"d":"M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Home"}]]}]}],[["$","li","0",{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right w-4 h-4 mx-1 text-gray-400","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}],["$","$L8",null,{"href":"/fr/comparatif-slingsite/","className":"hover:text-blue-600 transition-colors","children":"Comparatif Slingsite"}]]}],["$","li","1",{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right w-4 h-4 mx-1 text-gray-400","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}],["$","span",null,{"className":"text-gray-900 font-semibold truncate max-w-[150px] md:max-w-none","children":"Squoosh vs. Slingsite : Quel outil remporte la victoire ?"}]]}]]]}]}],["$","header",null,{"className":"mb-12","children":["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-sm text-gray-500 border-y border-gray-100 py-6","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4 text-blue-500","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":["Publié le"," ",["$","time",null,{"dateTime":"2026-08-28T00:00:00.000Z","children":"28 août 2026"}]]}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4 text-emerald-500","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":[4," ","min de lecture"]}]]}],false]}]}],["$","article",null,{"className":"prose prose-lg max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-blue-600 hover:prose-a:text-blue-700 prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:bg-blue-50/50 prose-blockquote:px-6 prose-blockquote:rounded-r-lg prose-img:rounded-2xl prose-img:shadow-xl","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]}],"$La"]}]
+5:["$","$Lb",null,{"locale":"fr","pageType":"post","pageSubtype":"squoosh.mdx"}]
+6:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+a:["$","footer",null,{"className":"mt-16 pt-8 border-t border-gray-100","children":["$","div",null,{"className":"bg-gradient-to-br from-blue-50 to-indigo-50 p-8 rounded-3xl border border-blue-100 flex flex-col md:flex-row items-center justify-between gap-6","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","h2",null,{"className":"text-lg font-bold text-gray-900 mb-1","children":"Cet article vous a plu?"}],["$","p",null,{"className":"text-gray-600","children":"Partagez-le avec vos collègues ou abonnez-vous pour en recevoir d'autres."}]]}],["$","div",null,{"className":"flex gap-4","children":["$","$L7",null,{"href":"/fr/subscribe/","locale":"fr","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"px-6 py-3 bg-blue-600 text-white font-semibold rounded-xl hover:bg-blue-700 transition-all shadow-lg shadow-blue-200 active:scale-95","children":"S'abonner"}]}]]}]}]
+e:null

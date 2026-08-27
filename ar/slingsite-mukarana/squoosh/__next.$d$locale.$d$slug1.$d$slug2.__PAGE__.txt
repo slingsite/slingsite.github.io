@@ -1,0 +1,91 @@
+1:"$Sreact.fragment"
+2:I[2593,["564","static/chunks/564-602557e51b71c19f.js","142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-61ba89a1475775fe.js"],""]
+7:I[4564,["564","static/chunks/564-602557e51b71c19f.js","142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-61ba89a1475775fe.js"],"default"]
+8:I[8500,["564","static/chunks/564-602557e51b71c19f.js","142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-61ba89a1475775fe.js"],""]
+b:I[5425,["564","static/chunks/564-602557e51b71c19f.js","142","static/chunks/app/%5Blocale%5D/%5Bslug1%5D/%5Bslug2%5D/page-61ba89a1475775fe.js"],"default"]
+c:I[484,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+3:T163d,{"@context":"https://schema.org","@type":"TechArticle","mainEntityOfPage":{"@type":"WebPage","@id":"/ar/slingsite-mukarana/squoosh/"},"url":"/ar/slingsite-mukarana/squoosh/","headline":"Squoosh مقابل Slingsite: أي أداة تفوز؟","articleBody":"Squoosh مقابل Slingsite: أي أداة تحسين تستند إلى المتصفح تحتاجها؟\n\nعندما يتعلق الأمر بالضغط على جانب العميل داخل المتصفح، أحدث Squoosh (الذي طوره Google Chrome Labs) معيارًا لقوة تطبيقات الويب. نظرًا لأنه يعمل محليًا، يوفر خصوصية ممتازة والتحكم المتقدم في codecs.\n\nلكن إذا كنت تدير سير عمل كامل لموقع إلكتروني، فمن المحتمل أنك لاحظت بالفعل القيد الرئيسي في Squoosh: تم تصميمه لمعالجة صورة واحدة فقط في كل مرة.\n\nإذا كنت تتردد بين Squoosh و Slingsite، فإليك مقارنةهما في مهام تطوير الويب وتحسين محركات البحث الواقعية.\n\nلمحة سريعة: الفروقات الأساسية\n\n| الميزة             | Squoosh                   | Slingsite                                     |\n| :----------------- | :------------------------ | :-------------------------------------------- |\n| سير العمل      | ملف واحد (تحكم يدوي عميق) | معالجة مجمعة (السرعة وتحسين محركات البحث) |\n| دعم الفيديو    | لا                        | نعم (MP4/WebM)                            |\n| واجهة المستخدم | شريط تمرير متقدم وcodecs  | سحب وإفلات مبسط                           |\n| الخصوصية       | جانب العميل (محلي)        | جانب العميل (محلي)                        |\n| السعر          | مجاني / مفتوح المصدر      | مجاني 100% / مفتوح المصدر                 |\n\nSquoosh: مختبر codecs المتقدم\n\nSquoosh هو إنجاز تقني مذهل. يتيح للمطورين تجربة codecs متقدمة للصور مثل MozJPEG و OxiPNG و AVIF ومراجعة التغييرات بكسلًا بكسل باستخدام شريط المقارنة الشهير الخاص به.\n\nالمزايا\n\nتحكم دقيق: إعدادات تفصيلية لا مثيل لها للصور الفردية وcodecs المتخصصة.\n\nفحص الجودة البصري: يسمح شريط التمرير التفاعلي بمقارنة تقليل التشوهات بدقة.\n\nيعمل دون اتصال: يعمل بالكامل دون اتصال كـ PWA.\n\nالعيوب\n\nلا توجد معالجة مجمعة: عليك ضغط الصور واحدة تلو الأخرى. إذا كان لديك مجلد من 40 عنصرًا جديدًا لمدونة، يصبح Squoosh عنقًا زجاجيًا مزعجًا.\n\nلا يدعم الفيديو: يقتصر Squoosh على الصور فقط.\n\nمرهق للمهام السريعة: إذا كنت تريد ملفًا جاهزًا للويب فقط، فإن عدد الإعدادات التقنية يمكن أن يبطئك.\n\nSlingsite: تم بناؤه للسرعة وسير عمل الإنتاج\n\nSlingsite يشارك نفس الفلسفة الأساسية لسquoosh: إبقاء كل شيء خاصًا ومعالجته على جانب العميل، لكنه يحول التركيز من بيئة تجريبية \"مختبر\" إلى أداة إنتاج عملية.\n\nالمزايا\n\nمعالجة مجمعة حقيقية: اسحب دفعة كاملة من الصور ومقاطع الفيديو واضغط عليها جميعًا في نفس الوقت.\n\nدعم الصور والفيديو: يتعامل مع كلا النوعين من الوسائط في واجهة واحدة، مما يبسط خط أنابيب الأصول لديك.\n\nمُحسّن لتحسين محركات البحث: توفر الإعدادات المسبقة التوازن المثالي بين الضغط والجودة دون الحاجة إلى درجة في codecs الصور.\n\nلا توجد uploads إلى الخادم: كما هو الحال مع Squoosh، تظل ملفاتك بالكامل على جهازك، مما يضمن الخصوصية الكاملة.\n\nالعيوب\n\nأقل من ضبط codecs يدويًا: يركز Slingsite على النتائج السريعة والفعالة بدلاً من ضبط خوارزميات ضغط البكسل بشكل دقيق.\n\nالحكم النهائي: ما الذي يجب أن تختار؟\n\nاختر Squoosh إذا: كنت مصممًا تختبر صورة رئيسية واحدة، أو تريد التجربة العميقة مع codecs الويب المتقدمة وفحوصات الجودة على مستوى البكسل.\n\nاختر Slingsite إذا: أنت مدير موقع، مطور أو منشئ محتوى تحتاج إلى ضغط دفعة كاملة من الصور ومقاطع الفيديو بسرعة ونظافة وسهولة.\n\nهل أنت مستعد لتبسيط سير عملك؟\nتوقف عن معالجة الملفات واحدة تلو الأخرى. جرب Slingsite مجانًا اليوم واعمل على مجلد الوسائط بالكامل خلال ثوانٍ.","description":"مقارنة بين Squoosh و Slingsite. اكتشف لماذا يختار المطورون Slingsite لضغط الصور ومقاطع الفيديو بشكل جماعي بدلًا من أداة Google لملف واحد.","datePublished":"2026-08-28T00:00:00.000Z","dateModified":"2026-08-28T00:00:00.000Z"}0:{"buildId":"H-930CJM7SN-NDFXHOkc8","rsc":["$","$1","c",{"children":[[[["$","$L2",null,{"type":"application/ld+json","children":"$3"}],"$L4"],"$L5"],null,"$L6"]}],"loading":null,"isPartial":false}
+9:T1779,<h1>Squoosh مقابل Slingsite: أي أداة تحسين تستند إلى المتصفح تحتاجها؟</h1>
+<p>عندما يتعلق الأمر بالضغط على جانب العميل داخل المتصفح، أحدث <strong>Squoosh</strong> (الذي طوره Google Chrome Labs) معيارًا لقوة تطبيقات الويب. نظرًا لأنه يعمل محليًا، يوفر خصوصية ممتازة والتحكم المتقدم في codecs.</p>
+<p>لكن إذا كنت تدير سير عمل كامل لموقع إلكتروني، فمن المحتمل أنك لاحظت بالفعل القيد الرئيسي في Squoosh: تم تصميمه لمعالجة صورة واحدة فقط في كل مرة.</p>
+<p>إذا كنت تتردد بين Squoosh و <strong>Slingsite</strong>، فإليك مقارنةهما في مهام تطوير الويب وتحسين محركات البحث الواقعية.</p>
+<hr>
+<h2>لمحة سريعة: الفروقات الأساسية</h2>
+<table>
+<thead>
+<tr>
+<th align="left">الميزة</th>
+<th align="left">Squoosh</th>
+<th align="left">Slingsite</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>سير العمل</strong></td>
+<td align="left">ملف واحد (تحكم يدوي عميق)</td>
+<td align="left"><strong>معالجة مجمعة (السرعة وتحسين محركات البحث)</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>دعم الفيديو</strong></td>
+<td align="left">لا</td>
+<td align="left"><strong>نعم (MP4/WebM)</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>واجهة المستخدم</strong></td>
+<td align="left">شريط تمرير متقدم وcodecs</td>
+<td align="left"><strong>سحب وإفلات مبسط</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>الخصوصية</strong></td>
+<td align="left">جانب العميل (محلي)</td>
+<td align="left"><strong>جانب العميل (محلي)</strong></td>
+</tr>
+<tr>
+<td align="left"><strong>السعر</strong></td>
+<td align="left">مجاني / مفتوح المصدر</td>
+<td align="left"><strong>مجاني 100% / مفتوح المصدر</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Squoosh: مختبر codecs المتقدم</h2>
+<p>Squoosh هو إنجاز تقني مذهل. يتيح للمطورين تجربة codecs متقدمة للصور مثل MozJPEG و OxiPNG و AVIF ومراجعة التغييرات بكسلًا بكسل باستخدام شريط المقارنة الشهير الخاص به.</p>
+<h3>المزايا</h3>
+<ul>
+<li><strong>تحكم دقيق:</strong> إعدادات تفصيلية لا مثيل لها للصور الفردية وcodecs المتخصصة.</li>
+<li><strong>فحص الجودة البصري:</strong> يسمح شريط التمرير التفاعلي بمقارنة تقليل التشوهات بدقة.</li>
+<li><strong>يعمل دون اتصال:</strong> يعمل بالكامل دون اتصال كـ PWA.</li>
+</ul>
+<h3>العيوب</h3>
+<ul>
+<li><strong>لا توجد معالجة مجمعة:</strong> عليك ضغط الصور واحدة تلو الأخرى. إذا كان لديك مجلد من 40 عنصرًا جديدًا لمدونة، يصبح Squoosh عنقًا زجاجيًا مزعجًا.</li>
+<li><strong>لا يدعم الفيديو:</strong> يقتصر Squoosh على الصور فقط.</li>
+<li><strong>مرهق للمهام السريعة:</strong> إذا كنت تريد ملفًا جاهزًا للويب فقط، فإن عدد الإعدادات التقنية يمكن أن يبطئك.</li>
+</ul>
+<hr>
+<h2>Slingsite: تم بناؤه للسرعة وسير عمل الإنتاج</h2>
+<p><a href="https://slingsite.github.io">Slingsite</a> يشارك نفس الفلسفة الأساسية لسquoosh: إبقاء كل شيء خاصًا ومعالجته على جانب العميل، لكنه يحول التركيز من بيئة تجريبية "مختبر" إلى أداة إنتاج عملية.</p>
+<h3>المزايا</h3>
+<ul>
+<li><strong>معالجة مجمعة حقيقية:</strong> اسحب دفعة كاملة من الصور ومقاطع الفيديو واضغط عليها جميعًا في نفس الوقت.</li>
+<li><strong>دعم الصور والفيديو:</strong> يتعامل مع كلا النوعين من الوسائط في واجهة واحدة، مما يبسط خط أنابيب الأصول لديك.</li>
+<li><strong>مُحسّن لتحسين محركات البحث:</strong> توفر الإعدادات المسبقة التوازن المثالي بين الضغط والجودة دون الحاجة إلى درجة في codecs الصور.</li>
+<li><strong>لا توجد uploads إلى الخادم:</strong> كما هو الحال مع Squoosh، تظل ملفاتك بالكامل على جهازك، مما يضمن الخصوصية الكاملة.</li>
+</ul>
+<h3>العيوب</h3>
+<ul>
+<li><strong>أقل من ضبط codecs يدويًا:</strong> يركز Slingsite على النتائج السريعة والفعالة بدلاً من ضبط خوارزميات ضغط البكسل بشكل دقيق.</li>
+</ul>
+<hr>
+<h2>الحكم النهائي: ما الذي يجب أن تختار؟</h2>
+<ul>
+<li><strong>اختر Squoosh إذا:</strong> كنت مصممًا تختبر صورة رئيسية واحدة، أو تريد التجربة العميقة مع codecs الويب المتقدمة وفحوصات الجودة على مستوى البكسل.</li>
+<li><strong>اختر Slingsite إذا:</strong> أنت مدير موقع، مطور أو منشئ محتوى تحتاج إلى ضغط دفعة كاملة من الصور ومقاطع الفيديو بسرعة ونظافة وسهولة.</li>
+</ul>
+<p><strong>هل أنت مستعد لتبسيط سير عملك؟</strong>
+توقف عن معالجة الملفات واحدة تلو الأخرى. <a href="https://slingsite.github.io">جرب Slingsite مجانًا اليوم</a> واعمل على مجلد الوسائط بالكامل خلال ثوانٍ.</p>4:["$","div",null,{"className":"max-w-4xl mx-auto px-4 py-8","children":[["$","nav",null,{"className":"flex mb-8","aria-label":"Breadcrumb","children":["$","ol",null,{"className":"inline-flex items-center space-x-1 md:space-x-3 text-sm font-medium text-gray-500","children":[["$","li",null,{"className":"inline-flex items-center","children":["$","$L7",null,{"href":{"pathname":"/ar"},"locale":"ar","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"inline-flex items-center hover:text-blue-600 transition-colors","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-house w-4 h-4 mr-2","aria-hidden":"true","children":[["$","path","5wwlr5",{"d":"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"}],["$","path","r6nss1",{"d":"M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"}],"$undefined"]}],["$","span",null,{"className":"sr-only","children":"Home"}]]}]}],[["$","li","0",{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right w-4 h-4 mx-1 text-gray-400","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}],["$","$L8",null,{"href":"/ar/slingsite-mukarana/","className":"hover:text-blue-600 transition-colors","children":"Slingsite Mukarana"}]]}],["$","li","1",{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-right w-4 h-4 mx-1 text-gray-400","aria-hidden":"true","children":[["$","path","mthhwq",{"d":"m9 18 6-6-6-6"}],"$undefined"]}],["$","span",null,{"className":"text-gray-900 font-semibold truncate max-w-[150px] md:max-w-none","children":"Squoosh مقابل Slingsite: أي أداة تفوز؟"}]]}]]]}]}],["$","header",null,{"className":"mb-12","children":["$","div",null,{"className":"flex flex-wrap items-center gap-6 text-sm text-gray-500 border-y border-gray-100 py-6","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-calendar w-4 h-4 text-blue-500","aria-hidden":"true","children":[["$","path","1cmpym",{"d":"M8 2v4"}],["$","path","4m81vk",{"d":"M16 2v4"}],["$","rect","1hopcy",{"width":"18","height":"18","x":"3","y":"4","rx":"2"}],["$","path","8toen8",{"d":"M3 10h18"}],"$undefined"]}],["$","span",null,{"children":["نُشر في"," ",["$","time",null,{"dateTime":"2026-08-28T00:00:00.000Z","children":"28 أغسطس 2026"}]]}]]}],["$","div",null,{"className":"flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-4 h-4 text-emerald-500","aria-hidden":"true","children":[["$","path","mmk7yg",{"d":"M12 6v6l4 2"}],["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],"$undefined"]}],["$","span",null,{"children":[3," ","دقيقة للقراءة"]}]]}],false]}]}],["$","article",null,{"className":"prose prose-lg max-w-none prose-headings:text-gray-900 prose-headings:font-bold prose-p:text-gray-700 prose-p:leading-relaxed prose-a:text-blue-600 hover:prose-a:text-blue-700 prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:bg-blue-50/50 prose-blockquote:px-6 prose-blockquote:rounded-r-lg prose-img:rounded-2xl prose-img:shadow-xl","children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]}],"$La"]}]
+5:["$","$Lb",null,{"locale":"ar","pageType":"post","pageSubtype":"squoosh.mdx"}]
+6:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+a:["$","footer",null,{"className":"mt-16 pt-8 border-t border-gray-100","children":["$","div",null,{"className":"bg-gradient-to-br from-blue-50 to-indigo-50 p-8 rounded-3xl border border-blue-100 flex flex-col md:flex-row items-center justify-between gap-6","children":[["$","div",null,{"className":"text-center md:text-left","children":[["$","h2",null,{"className":"text-lg font-bold text-gray-900 mb-1","children":"استمتعت بهذا المقال؟"}],["$","p",null,{"className":"text-gray-600","children":"شاركها مع زملائك أو اشترك للمزيد."}]]}],["$","div",null,{"className":"flex gap-4","children":["$","$L7",null,{"href":"/ar/subscribe/","locale":"ar","localeCookie":{"name":"NEXT_LOCALE","sameSite":"lax"},"className":"px-6 py-3 bg-blue-600 text-white font-semibold rounded-xl hover:bg-blue-700 transition-all shadow-lg shadow-blue-200 active:scale-95","children":"اشترك"}]}]]}]}]
+e:null
