@@ -2,7 +2,7 @@
 5:I[5425,["564","static/chunks/564-602557e51b71c19f.js","266","static/chunks/app/%5Blocale%5D/subscribe/page-8777ec8ba0825a6d.js"],"default"]
 6:I[484,[],"OutletBoundary"]
 7:"$Sreact.suspense"
-2:Tb1e8,
+2:Tb1ea,
       <!-- Begin Brevo Form -->
       <!-- START - We recommend to place the below code in head tag of your website html  -->
       <style>
@@ -82,7 +82,7 @@
             <form id="sib-form" method="POST" action="https://5004d848.sibforms.com/serve/MUIFAOBz8aFyqXQsKafpp1E5EXI2nNwYmPDY8NpOkaBf7qiTzQfXrtQvVJVHxJQ4zg2RIJFkd490i7rSJUNJGhSQDbf-40ybOHmk1rzknE8svW_g00PUyh9obSNUXvknFtWMf7ZiVPUqYvVyAKtX-tmy8EzhzGVQrXTPrnsLyAwUfbZaOBXyNFI3grVAp4mrHuW1mvw03QbgqbK2" data-type="subscription">
               <div style="padding: 8px 0;">
                 <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:Helvetica, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
-                  <p>Newsletter</p>
+                  <h1>Newsletter</h1>
                 </div>
               </div>
               <div style="padding: 8px 0;">
@@ -961,7 +961,7 @@
 
       <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
       <!-- End Brevo Form --></div>    
-      0:{"buildId":"zI1B3SEyT8GLft0AhBnvi","rsc":["$","$1","c",{"children":[[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"loading":null,"isPartial":false}
+      0:{"buildId":"Qcl3rF7d4YgzBTee_fCfQ","rsc":["$","$1","c",{"children":[[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"loading":null,"isPartial":false}
 3:["$","$L5",null,{"locale":"es","pageType":"subscribe"}]
 4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
