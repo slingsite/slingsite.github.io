@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9066],{9066:e=>{e.exports=JSON.parse('{"title":"نشرة SlingSite البريدية | نصائح وأخبار الويب","description":"اشترك في نشرة SlingSite البريدية للحصول على نصائح وأدوات وأخبار مفيدة حول تحسين المواقع والصور والإنتاجية."}')}}]);

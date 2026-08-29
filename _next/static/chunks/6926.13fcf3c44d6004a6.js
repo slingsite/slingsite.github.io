@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6926],{6926:e=>{e.exports=JSON.parse('{"imageCompressor":"图像压缩器","videoCompressor":"视频压缩器","menu":"菜单","openMenu":"打开菜单","closeMenu":"关闭菜单"}')}}]);

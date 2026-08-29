@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5194],{5194:e=>{e.exports=JSON.parse('{"desktop":"Bureau","tablet":"Tablette","mobile":"Mobile"}')}}]);

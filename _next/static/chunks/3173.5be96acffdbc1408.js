@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3173],{3173:e=>{e.exports=JSON.parse('{"title":"Newsletter de SlingSite | Consejos y novedades web","description":"Suscr\xedbete al newsletter de SlingSite para recibir consejos, herramientas y novedades sobre optimizaci\xf3n web, im\xe1genes y productividad."}')}}]);
