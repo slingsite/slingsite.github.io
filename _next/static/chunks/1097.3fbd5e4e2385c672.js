@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1097],{1097:e=>{e.exports=JSON.parse('{"title":"Convert Your Videos","subtitle":"Upload your videos and convert them to MP4 or WebM right in your browser. Resize them too if you need to."}')}}]);

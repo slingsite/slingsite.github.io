@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9889],{39889:e=>{e.exports=JSON.parse('{"title":"حوّل مقاطع الفيديو الخاصة بك","subtitle":"حمّل مقاطع الفيديو وحوّلها إلى MP4 أو WebM مباشرةً في متصفحك. ويمكنك تغيير حجمها أيضًا إذا احتجت إلى ذلك."}')}}]);

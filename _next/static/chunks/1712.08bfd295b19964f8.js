@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1712],{61712:e=>{e.exports=JSON.parse('{"title":"Convierte Tus Im\xe1genes","subtitle":"Sube tus im\xe1genes y convi\xe9rtelas a JPG, WebP o AVIF en segundos, directamente en tu navegador. Y redimensi\xf3nalas si lo necesitas."}')}}]);

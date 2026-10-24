@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4778],{4778:p=>{p.exports=JSON.parse('{"clickToUpload":"Cliquez pour t\xe9l\xe9charger","orDragAndDrop":"ou glissez-d\xe9posez","supports":"Supporte"}')}}]);

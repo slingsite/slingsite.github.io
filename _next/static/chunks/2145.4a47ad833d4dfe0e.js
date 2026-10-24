@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2145],{2145:e=>{e.exports=JSON.parse('{"title":"在线视频压缩和调整大小工具 - SlingSite","description":"使用 SlingSite 的视频压缩器免费在线压缩和调整视频大小。优化视频以供网页使用，在不损失质量的情况下减小文件大小，并为手机、平板电脑和桌面设备选择尺寸。"}')}}]);

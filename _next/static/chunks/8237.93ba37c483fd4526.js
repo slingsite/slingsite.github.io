@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8237],{18237:e=>{e.exports=JSON.parse('{"title":"Konvertieren Sie Ihre Videos","subtitle":"Laden Sie Ihre Videos hoch und konvertieren Sie sie direkt in Ihrem Browser in MP4 oder WebM. Bei Bedarf auch mit neuer Gr\xf6\xdfe."}')}}]);

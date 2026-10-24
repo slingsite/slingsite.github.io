@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[76],{20076:e=>{e.exports=JSON.parse('{"imageHeading":"Todas las conversiones de imagen","videoHeading":"Todas las conversiones de v\xeddeo","anyImageTo":"Cualquier imagen a {to}","anyVideoTo":"Cualquier v\xeddeo a {to}","fromTo":"{from} a {to}"}')}}]);

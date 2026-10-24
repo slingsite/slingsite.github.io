@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4459],{64459:e=>{e.exports=JSON.parse('{"title":"حوّل صورك","subtitle":"حمّل صورك وحوّلها إلى JPG أو WebP أو AVIF في ثوانٍ، مباشرةً في متصفحك. ويمكنك تغيير حجمها أيضًا إذا احتجت إلى ذلك."}')}}]);

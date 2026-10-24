@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7958],{57958:e=>{e.exports=JSON.parse('{"title":"Convierte Tus V\xeddeos","subtitle":"Sube tus v\xeddeos y convi\xe9rtelos a MP4 o WebM directamente en tu navegador. Y redimensi\xf3nalos si lo necesitas."}')}}]);

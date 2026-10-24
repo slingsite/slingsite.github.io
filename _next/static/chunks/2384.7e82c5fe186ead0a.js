@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2384],{2384:p=>{p.exports=JSON.parse('{"clickToUpload":"点击上传","orDragAndDrop":"或拖放","supports":"支持"}')}}]);
