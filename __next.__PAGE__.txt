@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[27622,["4564","static/chunks/4564-389be68f11434aed.js","8974","static/chunks/app/page-5f0defc9483918e7.js"],"Redirecter"]
-3:I[25425,["4564","static/chunks/4564-389be68f11434aed.js","8974","static/chunks/app/page-5f0defc9483918e7.js"],"default"]
-4:I[90285,["4564","static/chunks/4564-389be68f11434aed.js","8974","static/chunks/app/page-5f0defc9483918e7.js"],"GoogleTagManager"]
+2:I[27622,["4564","static/chunks/4564-389be68f11434aed.js","8974","static/chunks/app/page-40fa16ef4cdda633.js"],"Redirecter"]
+3:I[25425,["4564","static/chunks/4564-389be68f11434aed.js","8974","static/chunks/app/page-40fa16ef4cdda633.js"],"default"]
+4:I[90285,["4564","static/chunks/4564-389be68f11434aed.js","8974","static/chunks/app/page-40fa16ef4cdda633.js"],"GoogleTagManager"]
 5:I[90484,[],"OutletBoundary"]
 6:"$Sreact.suspense"
-0:{"buildId":"HtaSWpfIeDylTOKujhwVe","rsc":["$","$1","c",{"children":[["$","html",null,{"lang":"en","dir":"ltr","children":["$","body",null,{"children":[[["$","$L2",null,{"href":{"pathname":"/image/"},"redirecting":"Redirecting"}],["$","$L3",null,{"locale":"en","pageType":"redirect","pageSubtype":"root"}]],["$","$L4",null,{"gtmId":"GTM-THHRLH4N"}],["$","style",null,{"children":".toggle-checkbox:checked { right: 0; border-color: #2563eb; } .toggle-checkbox:checked + .toggle-label { background-color: #2563eb; }"}]]}]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"SLLpPIoM3M2yvECF__HI4","rsc":["$","$1","c",{"children":[["$","html",null,{"lang":"en","dir":"ltr","children":["$","body",null,{"children":[[["$","$L2",null,{"href":"/home/","redirecting":"Redirecting"}],["$","$L3",null,{"locale":"en","pageType":"redirect","pageSubtype":"root"}]],["$","$L4",null,{"gtmId":"GTM-THHRLH4N"}],["$","style",null,{"children":".toggle-checkbox:checked { right: 0; border-color: #2563eb; } .toggle-checkbox:checked + .toggle-label { background-color: #2563eb; }"}]]}]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"loading":null,"isPartial":false}
 7:null

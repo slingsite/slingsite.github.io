@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2663],{82663:e=>{e.exports=JSON.parse('{"images":"الصور","videos":"الفيديو","imageCompressor":"ضاغط الصور","videoCompressor":"ضاغط الفيديو","imageConverter":"محوّل الصور","videoConverter":"محوّل الفيديو","menu":"القائمة","openMenu":"فتح القائمة","closeMenu":"إغلاق القائمة"}')}}]);

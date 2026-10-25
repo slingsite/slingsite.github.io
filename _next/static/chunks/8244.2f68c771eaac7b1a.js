@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8244],{38244:e=>{e.exports=JSON.parse('{"jpg":"JPG","webp":"WebP","avif":"AVIF","png":"PNG","avc.mp4":"MP4 (codec AVC aka H.264)","hevc.mp4":"MP4 (codec HEVC aka H.265)","vp9.webm":"WebM (codec VP9)"}')}}]);

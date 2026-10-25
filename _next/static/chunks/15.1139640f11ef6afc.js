@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[15],{80015:e=>{e.exports=JSON.parse('{"images":"Bilder","videos":"Videos","imageCompressor":"Bildkompressor","videoCompressor":"Videokompressor","imageConverter":"Bildkonverter","videoConverter":"Videokonverter","menu":"Men\xfc","openMenu":"Men\xfc \xf6ffnen","closeMenu":"Men\xfc schlie\xdfen"}')}}]);
