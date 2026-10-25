@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4178],{44178:e=>{e.exports=JSON.parse('{"keepAudio":"الاحتفاظ بالصوت","keepAudioDescription":"عند الإيقاف يُزال المسار الصوتي للحصول على ملفات أصغر.","noAudio":"بدون صوت"}')}}]);
