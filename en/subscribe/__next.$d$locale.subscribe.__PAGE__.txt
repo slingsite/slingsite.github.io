@@ -1,7 +1,8 @@
 1:"$Sreact.fragment"
-5:I[25425,["4564","static/chunks/4564-389be68f11434aed.js","1266","static/chunks/app/%5Blocale%5D/subscribe/page-ad31e40b7576648c.js"],"default"]
-6:I[90484,[],"OutletBoundary"]
-7:"$Sreact.suspense"
+6:I[13900,["4564","static/chunks/4564-389be68f11434aed.js","1266","static/chunks/app/%5Blocale%5D/subscribe/page-b21082be383d942c.js"],"default"]
+7:I[25425,["4564","static/chunks/4564-389be68f11434aed.js","1266","static/chunks/app/%5Blocale%5D/subscribe/page-b21082be383d942c.js"],"default"]
+8:I[90484,[],"OutletBoundary"]
+9:"$Sreact.suspense"
 2:Tb1ea,
       <!-- Begin Brevo Form -->
       <!-- START - We recommend to place the below code in head tag of your website html  -->
@@ -961,7 +962,8 @@
 
       <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
       <!-- End Brevo Form --></div>    
-      0:{"buildId":"SLLpPIoM3M2yvECF__HI4","rsc":["$","$1","c",{"children":[[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],null,"$L4"]}],"loading":null,"isPartial":false}
-3:["$","$L5",null,{"locale":"en","pageType":"subscribe","pageSubtype":"suscribe"}]
-4:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
-8:null
+      0:{"buildId":"zHrkYUL2-Z36ENT2UDPpT","rsc":["$","$1","c",{"children":[[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{}]
+4:["$","$L7",null,{"locale":"en","pageType":"subscribe","pageSubtype":"subscribe"}]
+5:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
+a:null
