@@ -962,7 +962,7 @@
 
       <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
       <!-- End Brevo Form --></div>    
-      0:{"buildId":"zHrkYUL2-Z36ENT2UDPpT","rsc":["$","$1","c",{"children":[[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
+      0:{"buildId":"53rnFHpn3Z-3S-wpqHeil","rsc":["$","$1","c",{"children":[[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4"],null,"$L5"]}],"loading":null,"isPartial":false}
 3:["$","$L6",null,{}]
 4:["$","$L7",null,{"locale":"en","pageType":"subscribe","pageSubtype":"subscribe"}]
 5:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
