@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9461],{19461:e=>{e.exports=JSON.parse('{"title":"为网页压缩视频","subtitle":"免费、可批量处理，你的视频永远不会离开此浏览器。"}')}}]);

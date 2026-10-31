@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2145],{42145:e=>{e.exports=JSON.parse('{"title":"网页视频压缩 \uD83C\uDFAC 免费且私密 | SlingSite","description":"使用 SlingSite 的视频压缩器免费在线压缩和调整视频大小。优化视频以供网页使用，在不损失质量的情况下减小文件大小，并为手机、平板电脑和桌面设备选择尺寸。"}')}}]);

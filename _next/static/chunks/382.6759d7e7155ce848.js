@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[382],{10382:e=>{e.exports=JSON.parse('{"title":"Bilder f\xfcrs Web komprimieren","subtitle":"Kostenlos und im Stapel, und Ihre Bilder verlassen nie diesen Browser."}')}}]);

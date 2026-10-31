@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1874],{11874:e=>{e.exports=JSON.parse('{"title":"Comprimi video per il web","subtitle":"Gratis e in blocco, e i tuoi video non lasciano mai questo browser."}')}}]);

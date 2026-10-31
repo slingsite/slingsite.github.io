@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1555],{91555:e=>{e.exports=JSON.parse('{"title":"Konvertieren Sie Ihre Bilder","subtitle":"F\xfcgen Sie Ihre Bilder hinzu und konvertieren Sie sie in Sekunden in JPG, PNG, WebP oder AVIF, direkt in Ihrem Browser. Bei Bedarf auch mit neuer Gr\xf6\xdfe."}')}}]);

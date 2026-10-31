@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6267],{56267:e=>{e.exports=JSON.parse('{"title":"为网页压缩图片","subtitle":"免费、可批量处理，你的图片永远不会离开此浏览器。"}')}}]);

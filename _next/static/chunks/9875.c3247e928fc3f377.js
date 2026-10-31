@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9875],{99875:e=>{e.exports=JSON.parse('{"title":"Comprime v\xeddeos para la web","subtitle":"Gratis y por lotes, y tus v\xeddeos nunca salen de este navegador."}')}}]);

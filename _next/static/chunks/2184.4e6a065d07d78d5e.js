@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2184],{12184:e=>{e.exports=JSON.parse('{"title":"Compress videos for the web","subtitle":"Free and in bulk, and your videos never leave this browser."}')}}]);

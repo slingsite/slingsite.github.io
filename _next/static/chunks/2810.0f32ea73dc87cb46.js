@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2810],{42810:e=>{e.exports=JSON.parse('{"filesNote":"在此浏览器中打开，不会上传任何内容。","addMore":"添加更多","removeFile":"移除 {name}","counts":{"image":{"other":"# 张图片"},"video":{"other":"# 个视频"},"file":{"other":"# 个文件"},"size":{"other":"# 种尺寸"}}}')}}]);

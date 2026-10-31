@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8306],{88306:e=>{e.exports=JSON.parse('{"title":"Convertissez vos vid\xe9os","subtitle":"Ajoutez vos vid\xe9os et convertissez-les en MP4 ou WebM directement dans votre navigateur. Redimensionnez-les aussi si besoin."}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1160],{41160:e=>{e.exports=JSON.parse('{"title":"اضغط الفيديو للويب","subtitle":"مجانًا وبالجملة، ولا تغادر مقاطع الفيديو هذا المتصفح أبدًا."}')}}]);

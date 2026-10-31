@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8820],{18820:e=>{e.exports=JSON.parse('{"title":"Comprimi immagini per il web","subtitle":"Gratis e in blocco, e le tue immagini non lasciano mai questo browser."}')}}]);

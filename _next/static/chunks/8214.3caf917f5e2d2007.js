@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8214],{78214:e=>{e.exports=JSON.parse('{"title":"اضغط الصور للويب","subtitle":"مجانًا وبالجملة، ولا تغادر صورك هذا المتصفح أبدًا."}')}}]);

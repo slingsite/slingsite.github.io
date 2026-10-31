@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8059],{88059:e=>{e.exports=JSON.parse('{"title":"Compressez vos vid\xe9os pour le web","subtitle":"Gratuit et par lots, et vos vid\xe9os ne quittent jamais ce navigateur."}')}}]);

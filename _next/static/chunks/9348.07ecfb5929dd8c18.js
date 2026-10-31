@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9348],{29348:e=>{e.exports=JSON.parse('{"title":"Videos f\xfcrs Web komprimieren","subtitle":"Kostenlos und im Stapel, und Ihre Videos verlassen nie diesen Browser."}')}}]);

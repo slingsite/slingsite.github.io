@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1689],{11689:e=>{e.exports=JSON.parse('{"title":"Comprime im\xe1genes para la web","subtitle":"Gratis y por lotes, y tus im\xe1genes nunca salen de este navegador."}')}}]);
