@@ -7,4 +7,4 @@
 3:[["children",{"s":{"n":"slug2","t":"d","k":"kraken","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"slug1","t":"d","k":"slingsite-vs","s":["image","subscribe","suscribe","video"]},"h":196672,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":["_not-found","_global-error","apple-icon.png","favicon.ico","icon.svg","sitemap.xml"]},"h":196608,"c":"$Q2"}]]
-0:{"b":"LM06J_KtFuvNrwnI8IWGq","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"n-C2vyRrc5wTqBZCxRoVx","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
