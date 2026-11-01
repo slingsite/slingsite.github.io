@@ -8,4 +8,4 @@
 3:[["children",{"s":"resize","h":131168,"c":"$Q4"}]]
 2:[["children",{"s":"image","h":131136,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"de","s":["_not-found","_global-error","apple-icon.png","favicon.ico","icon.svg","sitemap.xml"]},"h":196608,"c":"$Q2"}]]
-0:{"b":"oDY9vBxjudn6YuCLYub2X","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"g8khpYkZv9RaTI_JfQDux","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
