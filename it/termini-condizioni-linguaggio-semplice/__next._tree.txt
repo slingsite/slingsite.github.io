@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug1","t":"d","k":"termini-condizioni-linguaggio-semplice","s":["image","subscribe","suscribe","video"]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"it","s":["_not-found","_global-error","apple-icon.png","favicon.ico","icon.svg","sitemap.xml"]},"h":196608,"c":"$Q2"}]]
-0:{"b":"xhgEl4dy5Nac762472-ED","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"wRQrzpZrFk4UDFGVe7b7W","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
