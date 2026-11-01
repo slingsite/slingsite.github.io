@@ -1,11 +1,11 @@
 :HL["/_next/static/media/26d4368bf94c0ec4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/2801417b65625cf5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/30d9ec19d0a9cb90.css","style"]
-:HL["/_next/static/css/2231feb549b66093.css","style"]
+:HL["/_next/static/css/0b7e31716f041653.css","style"]
 :HL["/_next/static/css/3bc905bb0d99656c.css","style"]
 5:[["children",{"s":"__PAGE__","h":160}]]
 4:[["children",{"s":{"n":"slugs","t":"oc","k":"","s":[]},"h":65632,"c":"$Q5"}]]
 3:[["children",{"s":"resize","h":131168,"c":"$Q4"}]]
 2:[["children",{"s":"video","h":131136,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"de","s":["_not-found","_global-error","apple-icon.png","favicon.ico","icon.svg","sitemap.xml"]},"h":196608,"c":"$Q2"}]]
-0:{"b":"XEEN0UxMUIzwUztu4LZ4Z","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"3Bh-jEV9G0Bu-QzW3xJXE","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
